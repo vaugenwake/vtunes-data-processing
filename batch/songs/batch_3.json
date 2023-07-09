@@ -1,0 +1,1229 @@
+{
+    "MusicPlatform": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6trNtQUgC8cgbWcqoMYkOR"
+                    },
+                    "SK": {
+                        "S": "SONG#5ffntNJnJOeFv7b7DCd0Bw#00005"
+                    },
+                    "id": {
+                        "S": "5ffntNJnJOeFv7b7DCd0Bw"
+                    },
+                    "name": {
+                        "S": "Takin' Shots"
+                    },
+                    "album_id": {
+                        "S": "6trNtQUgC8cgbWcqoMYkOR"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "246dkjvS1zLTtiykXe5h60"
+                            },
+                            "name": {
+                                "S": "Post Malone"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "216747"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6trNtQUgC8cgbWcqoMYkOR"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6trNtQUgC8cgbWcqoMYkOR"
+                    },
+                    "SK": {
+                        "S": "SONG#5lZZmityu9TAjNvSY6GLhR#00004"
+                    },
+                    "id": {
+                        "S": "5lZZmityu9TAjNvSY6GLhR"
+                    },
+                    "name": {
+                        "S": "Zack And Codeine"
+                    },
+                    "album_id": {
+                        "S": "6trNtQUgC8cgbWcqoMYkOR"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "246dkjvS1zLTtiykXe5h60"
+                            },
+                            "name": {
+                                "S": "Post Malone"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "4"
+                    },
+                    "duration": {
+                        "N": "204360"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6trNtQUgC8cgbWcqoMYkOR"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00004"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6trNtQUgC8cgbWcqoMYkOR"
+                    },
+                    "SK": {
+                        "S": "SONG#09IOPhEh1OMe0HD9b36FJk#00007"
+                    },
+                    "id": {
+                        "S": "09IOPhEh1OMe0HD9b36FJk"
+                    },
+                    "name": {
+                        "S": "Over Now"
+                    },
+                    "album_id": {
+                        "S": "6trNtQUgC8cgbWcqoMYkOR"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "246dkjvS1zLTtiykXe5h60"
+                            },
+                            "name": {
+                                "S": "Post Malone"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "7"
+                    },
+                    "duration": {
+                        "N": "246987"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6trNtQUgC8cgbWcqoMYkOR"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00007"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6trNtQUgC8cgbWcqoMYkOR"
+                    },
+                    "SK": {
+                        "S": "SONG#4H7WNRErSbONkM06blBoGc#00012"
+                    },
+                    "id": {
+                        "S": "4H7WNRErSbONkM06blBoGc"
+                    },
+                    "name": {
+                        "S": "Stay"
+                    },
+                    "album_id": {
+                        "S": "6trNtQUgC8cgbWcqoMYkOR"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "246dkjvS1zLTtiykXe5h60"
+                            },
+                            "name": {
+                                "S": "Post Malone"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "12"
+                    },
+                    "duration": {
+                        "N": "204427"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6trNtQUgC8cgbWcqoMYkOR"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00012"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6trNtQUgC8cgbWcqoMYkOR"
+                    },
+                    "SK": {
+                        "S": "SONG#3fpVWegR6YOS1Yk5HSMYIq#00001"
+                    },
+                    "id": {
+                        "S": "3fpVWegR6YOS1Yk5HSMYIq"
+                    },
+                    "name": {
+                        "S": "Paranoid"
+                    },
+                    "album_id": {
+                        "S": "6trNtQUgC8cgbWcqoMYkOR"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "246dkjvS1zLTtiykXe5h60"
+                            },
+                            "name": {
+                                "S": "Post Malone"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "1"
+                    },
+                    "duration": {
+                        "N": "221787"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6trNtQUgC8cgbWcqoMYkOR"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00001"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6trNtQUgC8cgbWcqoMYkOR"
+                    },
+                    "SK": {
+                        "S": "SONG#2VdT56BGpdqNHUgOe1j5vc#00003"
+                    },
+                    "id": {
+                        "S": "2VdT56BGpdqNHUgOe1j5vc"
+                    },
+                    "name": {
+                        "S": "Rich & Sad"
+                    },
+                    "album_id": {
+                        "S": "6trNtQUgC8cgbWcqoMYkOR"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "246dkjvS1zLTtiykXe5h60"
+                            },
+                            "name": {
+                                "S": "Post Malone"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "206453"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6trNtQUgC8cgbWcqoMYkOR"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6trNtQUgC8cgbWcqoMYkOR"
+                    },
+                    "SK": {
+                        "S": "SONG#7dt6x5M1jzdTEt8oCbisTK#00009"
+                    },
+                    "id": {
+                        "S": "7dt6x5M1jzdTEt8oCbisTK"
+                    },
+                    "name": {
+                        "S": "Better Now"
+                    },
+                    "album_id": {
+                        "S": "6trNtQUgC8cgbWcqoMYkOR"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "246dkjvS1zLTtiykXe5h60"
+                            },
+                            "name": {
+                                "S": "Post Malone"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "9"
+                    },
+                    "duration": {
+                        "N": "231267"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6trNtQUgC8cgbWcqoMYkOR"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00009"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#1qsQOC4Jn0fnaUZLAbs4dz"
+                    },
+                    "SK": {
+                        "S": "SONG#5itzep0nGnq7hxCfFNsTIR#00008"
+                    },
+                    "id": {
+                        "S": "5itzep0nGnq7hxCfFNsTIR"
+                    },
+                    "name": {
+                        "S": "difference (interlude)"
+                    },
+                    "album_id": {
+                        "S": "1qsQOC4Jn0fnaUZLAbs4dz"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "15UsOTVnJzReFVN1VCnxy4"
+                            },
+                            "name": {
+                                "S": "XXXTENTACION"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "8"
+                    },
+                    "duration": {
+                        "N": "76974"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#1qsQOC4Jn0fnaUZLAbs4dz"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00008"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#1qsQOC4Jn0fnaUZLAbs4dz"
+                    },
+                    "SK": {
+                        "S": "SONG#4KpKyRFwN0gcwj58Uqjv7q#00006"
+                    },
+                    "id": {
+                        "S": "4KpKyRFwN0gcwj58Uqjv7q"
+                    },
+                    "name": {
+                        "S": "STARING AT THE SKY"
+                    },
+                    "album_id": {
+                        "S": "1qsQOC4Jn0fnaUZLAbs4dz"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "15UsOTVnJzReFVN1VCnxy4"
+                            },
+                            "name": {
+                                "S": "XXXTENTACION"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "6"
+                    },
+                    "duration": {
+                        "N": "85124"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#1qsQOC4Jn0fnaUZLAbs4dz"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00006"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#1qsQOC4Jn0fnaUZLAbs4dz"
+                    },
+                    "SK": {
+                        "S": "SONG#57nOpVSc3j9o03Cr928ZM4#00010"
+                    },
+                    "id": {
+                        "S": "57nOpVSc3j9o03Cr928ZM4"
+                    },
+                    "name": {
+                        "S": "what are you so afraid of"
+                    },
+                    "album_id": {
+                        "S": "1qsQOC4Jn0fnaUZLAbs4dz"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "15UsOTVnJzReFVN1VCnxy4"
+                            },
+                            "name": {
+                                "S": "XXXTENTACION"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "10"
+                    },
+                    "duration": {
+                        "N": "150769"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#1qsQOC4Jn0fnaUZLAbs4dz"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00010"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#1qsQOC4Jn0fnaUZLAbs4dz"
+                    },
+                    "SK": {
+                        "S": "SONG#5lar0mCUejpILVkAz50s2J#00003"
+                    },
+                    "id": {
+                        "S": "5lar0mCUejpILVkAz50s2J"
+                    },
+                    "name": {
+                        "S": "Train food"
+                    },
+                    "album_id": {
+                        "S": "1qsQOC4Jn0fnaUZLAbs4dz"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "15UsOTVnJzReFVN1VCnxy4"
+                            },
+                            "name": {
+                                "S": "XXXTENTACION"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "164083"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#1qsQOC4Jn0fnaUZLAbs4dz"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#1qsQOC4Jn0fnaUZLAbs4dz"
+                    },
+                    "SK": {
+                        "S": "SONG#4axYWgXASdsCBHuwInAubT#00009"
+                    },
+                    "id": {
+                        "S": "4axYWgXASdsCBHuwInAubT"
+                    },
+                    "name": {
+                        "S": "I don\u2019t let go"
+                    },
+                    "album_id": {
+                        "S": "1qsQOC4Jn0fnaUZLAbs4dz"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "15UsOTVnJzReFVN1VCnxy4"
+                            },
+                            "name": {
+                                "S": "XXXTENTACION"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "9"
+                    },
+                    "duration": {
+                        "N": "121630"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#1qsQOC4Jn0fnaUZLAbs4dz"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00009"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#1qsQOC4Jn0fnaUZLAbs4dz"
+                    },
+                    "SK": {
+                        "S": "SONG#7uqcLJFlSYjVPLUz1vPxkY#00002"
+                    },
+                    "id": {
+                        "S": "7uqcLJFlSYjVPLUz1vPxkY"
+                    },
+                    "name": {
+                        "S": "Guardian angel"
+                    },
+                    "album_id": {
+                        "S": "1qsQOC4Jn0fnaUZLAbs4dz"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "15UsOTVnJzReFVN1VCnxy4"
+                            },
+                            "name": {
+                                "S": "XXXTENTACION"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "2"
+                    },
+                    "duration": {
+                        "N": "108035"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#1qsQOC4Jn0fnaUZLAbs4dz"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00002"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#1qsQOC4Jn0fnaUZLAbs4dz"
+                    },
+                    "SK": {
+                        "S": "SONG#7pdF27mSDuPWhppnHAmWHa#00004"
+                    },
+                    "id": {
+                        "S": "7pdF27mSDuPWhppnHAmWHa"
+                    },
+                    "name": {
+                        "S": "whoa (mind in awe)"
+                    },
+                    "album_id": {
+                        "S": "1qsQOC4Jn0fnaUZLAbs4dz"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "15UsOTVnJzReFVN1VCnxy4"
+                            },
+                            "name": {
+                                "S": "XXXTENTACION"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "4"
+                    },
+                    "duration": {
+                        "N": "157777"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#1qsQOC4Jn0fnaUZLAbs4dz"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00004"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6tkjU4Umpo79wwkgPMV3nZ"
+                    },
+                    "SK": {
+                        "S": "SONG#3oDkdAySo1VQQG0ptV7uwa#00007"
+                    },
+                    "id": {
+                        "S": "3oDkdAySo1VQQG0ptV7uwa"
+                    },
+                    "name": {
+                        "S": "Lean Wit Me"
+                    },
+                    "album_id": {
+                        "S": "6tkjU4Umpo79wwkgPMV3nZ"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "4MCBfE4596Uoi2O4DtmEMz"
+                            },
+                            "name": {
+                                "S": "Juice WRLD"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "7"
+                    },
+                    "duration": {
+                        "N": "175755"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6tkjU4Umpo79wwkgPMV3nZ"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00007"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6tkjU4Umpo79wwkgPMV3nZ"
+                    },
+                    "SK": {
+                        "S": "SONG#4VXIryQMWpIdGgYR4TrjT1#00002"
+                    },
+                    "id": {
+                        "S": "4VXIryQMWpIdGgYR4TrjT1"
+                    },
+                    "name": {
+                        "S": "All Girls Are The Same"
+                    },
+                    "album_id": {
+                        "S": "6tkjU4Umpo79wwkgPMV3nZ"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "4MCBfE4596Uoi2O4DtmEMz"
+                            },
+                            "name": {
+                                "S": "Juice WRLD"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "2"
+                    },
+                    "duration": {
+                        "N": "165820"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6tkjU4Umpo79wwkgPMV3nZ"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00002"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6tkjU4Umpo79wwkgPMV3nZ"
+                    },
+                    "SK": {
+                        "S": "SONG#5wujBwqG7INdStqGd4tRMX#00005"
+                    },
+                    "id": {
+                        "S": "5wujBwqG7INdStqGd4tRMX"
+                    },
+                    "name": {
+                        "S": "Armed And Dangerous"
+                    },
+                    "album_id": {
+                        "S": "6tkjU4Umpo79wwkgPMV3nZ"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "4MCBfE4596Uoi2O4DtmEMz"
+                            },
+                            "name": {
+                                "S": "Juice WRLD"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "169999"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6tkjU4Umpo79wwkgPMV3nZ"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6tkjU4Umpo79wwkgPMV3nZ"
+                    },
+                    "SK": {
+                        "S": "SONG#285pBltuF7vW8TeWk8hdRR#00003"
+                    },
+                    "id": {
+                        "S": "285pBltuF7vW8TeWk8hdRR"
+                    },
+                    "name": {
+                        "S": "Lucid Dreams"
+                    },
+                    "album_id": {
+                        "S": "6tkjU4Umpo79wwkgPMV3nZ"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "4MCBfE4596Uoi2O4DtmEMz"
+                            },
+                            "name": {
+                                "S": "Juice WRLD"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "239836"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6tkjU4Umpo79wwkgPMV3nZ"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "SK": {
+                        "S": "SONG#0XOnMqLQDO89iAg7dWWwnG#00014"
+                    },
+                    "id": {
+                        "S": "0XOnMqLQDO89iAg7dWWwnG"
+                    },
+                    "name": {
+                        "S": "pete davidson"
+                    },
+                    "album_id": {
+                        "S": "3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "66CXWjxzNUsdJxJ2JdwvnR"
+                            },
+                            "name": {
+                                "S": "Ariana Grande"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "14"
+                    },
+                    "duration": {
+                        "N": "73813"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00014"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "SK": {
+                        "S": "SONG#14kYOiFVPb7E7NfFbqhdln#00013"
+                    },
+                    "id": {
+                        "S": "14kYOiFVPb7E7NfFbqhdln"
+                    },
+                    "name": {
+                        "S": "goodnight n go"
+                    },
+                    "album_id": {
+                        "S": "3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "66CXWjxzNUsdJxJ2JdwvnR"
+                            },
+                            "name": {
+                                "S": "Ariana Grande"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "13"
+                    },
+                    "duration": {
+                        "N": "189507"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00013"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "SK": {
+                        "S": "SONG#1xWH8zYtDeS9mW1JJG23VZ#00004"
+                    },
+                    "id": {
+                        "S": "1xWH8zYtDeS9mW1JJG23VZ"
+                    },
+                    "name": {
+                        "S": "R.E.M"
+                    },
+                    "album_id": {
+                        "S": "3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "66CXWjxzNUsdJxJ2JdwvnR"
+                            },
+                            "name": {
+                                "S": "Ariana Grande"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "4"
+                    },
+                    "duration": {
+                        "N": "245667"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00004"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "SK": {
+                        "S": "SONG#0WdR2AyLW1Drd3OUdwezM0#00008"
+                    },
+                    "id": {
+                        "S": "0WdR2AyLW1Drd3OUdwezM0"
+                    },
+                    "name": {
+                        "S": "everytime"
+                    },
+                    "album_id": {
+                        "S": "3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "66CXWjxzNUsdJxJ2JdwvnR"
+                            },
+                            "name": {
+                                "S": "Ariana Grande"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "8"
+                    },
+                    "duration": {
+                        "N": "172107"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00008"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "SK": {
+                        "S": "SONG#70khXICDeTTxgYtw3EysKH#00006"
+                    },
+                    "id": {
+                        "S": "70khXICDeTTxgYtw3EysKH"
+                    },
+                    "name": {
+                        "S": "sweetener"
+                    },
+                    "album_id": {
+                        "S": "3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "66CXWjxzNUsdJxJ2JdwvnR"
+                            },
+                            "name": {
+                                "S": "Ariana Grande"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "6"
+                    },
+                    "duration": {
+                        "N": "208493"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00006"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "SK": {
+                        "S": "SONG#2qT1uLXPVPzGgFOx4jtEuo#00010"
+                    },
+                    "id": {
+                        "S": "2qT1uLXPVPzGgFOx4jtEuo"
+                    },
+                    "name": {
+                        "S": "no tears left to cry"
+                    },
+                    "album_id": {
+                        "S": "3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "66CXWjxzNUsdJxJ2JdwvnR"
+                            },
+                            "name": {
+                                "S": "Ariana Grande"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "10"
+                    },
+                    "duration": {
+                        "N": "205920"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00010"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "SK": {
+                        "S": "SONG#5OCJzvD7sykQEKHH7qAC3C#00005"
+                    },
+                    "id": {
+                        "S": "5OCJzvD7sykQEKHH7qAC3C"
+                    },
+                    "name": {
+                        "S": "God is a woman"
+                    },
+                    "album_id": {
+                        "S": "3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "66CXWjxzNUsdJxJ2JdwvnR"
+                            },
+                            "name": {
+                                "S": "Ariana Grande"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "197547"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        }
+    ]
+}

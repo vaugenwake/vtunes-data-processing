@@ -1,0 +1,1229 @@
+{
+    "MusicPlatform": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "SK": {
+                        "S": "SONG#0tgVpDi06FyKpA1z0VMD4v#00005"
+                    },
+                    "id": {
+                        "S": "0tgVpDi06FyKpA1z0VMD4v"
+                    },
+                    "name": {
+                        "S": "Perfect"
+                    },
+                    "album_id": {
+                        "S": "3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "6eUKZXaKkcviH0Ku9w2n3V"
+                            },
+                            "name": {
+                                "S": "Ed Sheeran"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "263400"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7fRrTyKvE4Skh93v97gtcU"
+                    },
+                    "SK": {
+                        "S": "SONG#7hDVYcQq6MxkdJGweuCtl9#00007"
+                    },
+                    "id": {
+                        "S": "7hDVYcQq6MxkdJGweuCtl9"
+                    },
+                    "name": {
+                        "S": "ocean eyes"
+                    },
+                    "album_id": {
+                        "S": "7fRrTyKvE4Skh93v97gtcU"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "6qqNVTkY8uBg9cP3Jd7DAH"
+                            },
+                            "name": {
+                                "S": "Billie Eilish"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "7"
+                    },
+                    "duration": {
+                        "N": "200379"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#7fRrTyKvE4Skh93v97gtcU"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00007"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3HNnxK7NgLXbDoxRZxNWiR"
+                    },
+                    "SK": {
+                        "S": "SONG#60Z57Wdrn0pEVpHI7d7GAX#00007"
+                    },
+                    "id": {
+                        "S": "60Z57Wdrn0pEVpHI7d7GAX"
+                    },
+                    "name": {
+                        "S": "Stepping Stone"
+                    },
+                    "album_id": {
+                        "S": "3HNnxK7NgLXbDoxRZxNWiR"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7dGJo4pcD2V6oG8kP0tJRR"
+                            },
+                            "name": {
+                                "S": "Eminem"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "7"
+                    },
+                    "duration": {
+                        "N": "309638"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3HNnxK7NgLXbDoxRZxNWiR"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00007"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3HNnxK7NgLXbDoxRZxNWiR"
+                    },
+                    "SK": {
+                        "S": "SONG#0evt4UZbdhnHtcAnxkm6A1#00005"
+                    },
+                    "id": {
+                        "S": "0evt4UZbdhnHtcAnxkm6A1"
+                    },
+                    "name": {
+                        "S": "Normal"
+                    },
+                    "album_id": {
+                        "S": "3HNnxK7NgLXbDoxRZxNWiR"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7dGJo4pcD2V6oG8kP0tJRR"
+                            },
+                            "name": {
+                                "S": "Eminem"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "222477"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3HNnxK7NgLXbDoxRZxNWiR"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3HNnxK7NgLXbDoxRZxNWiR"
+                    },
+                    "SK": {
+                        "S": "SONG#2XTquzYQAdT1Hk78bOUwsv#00002"
+                    },
+                    "id": {
+                        "S": "2XTquzYQAdT1Hk78bOUwsv"
+                    },
+                    "name": {
+                        "S": "Greatest"
+                    },
+                    "album_id": {
+                        "S": "3HNnxK7NgLXbDoxRZxNWiR"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7dGJo4pcD2V6oG8kP0tJRR"
+                            },
+                            "name": {
+                                "S": "Eminem"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "2"
+                    },
+                    "duration": {
+                        "N": "226938"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3HNnxK7NgLXbDoxRZxNWiR"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00002"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3HNnxK7NgLXbDoxRZxNWiR"
+                    },
+                    "SK": {
+                        "S": "SONG#2gsNpSn7VvvJuSrIDfRoYy#00009"
+                    },
+                    "id": {
+                        "S": "2gsNpSn7VvvJuSrIDfRoYy"
+                    },
+                    "name": {
+                        "S": "Kamikaze"
+                    },
+                    "album_id": {
+                        "S": "3HNnxK7NgLXbDoxRZxNWiR"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7dGJo4pcD2V6oG8kP0tJRR"
+                            },
+                            "name": {
+                                "S": "Eminem"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "9"
+                    },
+                    "duration": {
+                        "N": "216029"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3HNnxK7NgLXbDoxRZxNWiR"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00009"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3HNnxK7NgLXbDoxRZxNWiR"
+                    },
+                    "SK": {
+                        "S": "SONG#2jt2WxXMCD4zjACthkJQVE#00001"
+                    },
+                    "id": {
+                        "S": "2jt2WxXMCD4zjACthkJQVE"
+                    },
+                    "name": {
+                        "S": "The Ringer"
+                    },
+                    "album_id": {
+                        "S": "3HNnxK7NgLXbDoxRZxNWiR"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7dGJo4pcD2V6oG8kP0tJRR"
+                            },
+                            "name": {
+                                "S": "Eminem"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "1"
+                    },
+                    "duration": {
+                        "N": "337941"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3HNnxK7NgLXbDoxRZxNWiR"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00001"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3HNnxK7NgLXbDoxRZxNWiR"
+                    },
+                    "SK": {
+                        "S": "SONG#58QhkbaAkLFnn7JwAnAato#00010"
+                    },
+                    "id": {
+                        "S": "58QhkbaAkLFnn7JwAnAato"
+                    },
+                    "name": {
+                        "S": "Fall"
+                    },
+                    "album_id": {
+                        "S": "3HNnxK7NgLXbDoxRZxNWiR"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7dGJo4pcD2V6oG8kP0tJRR"
+                            },
+                            "name": {
+                                "S": "Eminem"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "10"
+                    },
+                    "duration": {
+                        "N": "262494"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3HNnxK7NgLXbDoxRZxNWiR"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00010"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5s0rmjP8XOPhP6HhqOhuyC"
+                    },
+                    "SK": {
+                        "S": "SONG#6eT7xZZlB2mwyzJ2sUKG6w#00006"
+                    },
+                    "id": {
+                        "S": "6eT7xZZlB2mwyzJ2sUKG6w"
+                    },
+                    "name": {
+                        "S": "White Iverson"
+                    },
+                    "album_id": {
+                        "S": "5s0rmjP8XOPhP6HhqOhuyC"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "246dkjvS1zLTtiykXe5h60"
+                            },
+                            "name": {
+                                "S": "Post Malone"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "6"
+                    },
+                    "duration": {
+                        "N": "256533"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#5s0rmjP8XOPhP6HhqOhuyC"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00006"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5s0rmjP8XOPhP6HhqOhuyC"
+                    },
+                    "SK": {
+                        "S": "SONG#5yuShbu70mtHXY0yLzCQLQ#00009"
+                    },
+                    "id": {
+                        "S": "5yuShbu70mtHXY0yLzCQLQ"
+                    },
+                    "name": {
+                        "S": "Go Flex"
+                    },
+                    "album_id": {
+                        "S": "5s0rmjP8XOPhP6HhqOhuyC"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "246dkjvS1zLTtiykXe5h60"
+                            },
+                            "name": {
+                                "S": "Post Malone"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "9"
+                    },
+                    "duration": {
+                        "N": "179613"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#5s0rmjP8XOPhP6HhqOhuyC"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00009"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5s0rmjP8XOPhP6HhqOhuyC"
+                    },
+                    "SK": {
+                        "S": "SONG#75ZvA4QfFiZvzhj2xkaWAh#00007"
+                    },
+                    "id": {
+                        "S": "75ZvA4QfFiZvzhj2xkaWAh"
+                    },
+                    "name": {
+                        "S": "I Fall Apart"
+                    },
+                    "album_id": {
+                        "S": "5s0rmjP8XOPhP6HhqOhuyC"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "246dkjvS1zLTtiykXe5h60"
+                            },
+                            "name": {
+                                "S": "Post Malone"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "7"
+                    },
+                    "duration": {
+                        "N": "223347"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#5s0rmjP8XOPhP6HhqOhuyC"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00007"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6kf46HbnYCZzP6rjvQHYzg"
+                    },
+                    "SK": {
+                        "S": "SONG#152lZdxL1OR0ZMW6KquMif#00003"
+                    },
+                    "id": {
+                        "S": "152lZdxL1OR0ZMW6KquMif"
+                    },
+                    "name": {
+                        "S": "Location"
+                    },
+                    "album_id": {
+                        "S": "6kf46HbnYCZzP6rjvQHYzg"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "6LuN9FCkKOj5PcnpouEgny"
+                            },
+                            "name": {
+                                "S": "Khalid"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "219080"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6kf46HbnYCZzP6rjvQHYzg"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6kf46HbnYCZzP6rjvQHYzg"
+                    },
+                    "SK": {
+                        "S": "SONG#5Z3GHaZ6ec9bsiI5BenrbY#00002"
+                    },
+                    "id": {
+                        "S": "5Z3GHaZ6ec9bsiI5BenrbY"
+                    },
+                    "name": {
+                        "S": "Young Dumb & Broke"
+                    },
+                    "album_id": {
+                        "S": "6kf46HbnYCZzP6rjvQHYzg"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "6LuN9FCkKOj5PcnpouEgny"
+                            },
+                            "name": {
+                                "S": "Khalid"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "2"
+                    },
+                    "duration": {
+                        "N": "202547"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6kf46HbnYCZzP6rjvQHYzg"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00002"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2acDkDTWdNFie1HjcFa4Ny"
+                    },
+                    "SK": {
+                        "S": "SONG#1e4rwBPVI32vZtTJu7mJ4J#00010"
+                    },
+                    "id": {
+                        "S": "1e4rwBPVI32vZtTJu7mJ4J"
+                    },
+                    "name": {
+                        "S": "Chun-Li"
+                    },
+                    "album_id": {
+                        "S": "2acDkDTWdNFie1HjcFa4Ny"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0hCNtLu0JehylgoiP8L4Gh"
+                            },
+                            "name": {
+                                "S": "Nicki Minaj"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "10"
+                    },
+                    "duration": {
+                        "N": "191600"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#2acDkDTWdNFie1HjcFa4Ny"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00010"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2acDkDTWdNFie1HjcFa4Ny"
+                    },
+                    "SK": {
+                        "S": "SONG#6Poyf51k7W3NKnsGwAI90B#00003"
+                    },
+                    "id": {
+                        "S": "6Poyf51k7W3NKnsGwAI90B"
+                    },
+                    "name": {
+                        "S": "Barbie Dreams"
+                    },
+                    "album_id": {
+                        "S": "2acDkDTWdNFie1HjcFa4Ny"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0hCNtLu0JehylgoiP8L4Gh"
+                            },
+                            "name": {
+                                "S": "Nicki Minaj"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "279867"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#2acDkDTWdNFie1HjcFa4Ny"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5VdyJkLe3yvOs0l4xXbWp0"
+                    },
+                    "SK": {
+                        "S": "SONG#2yZax79pOrYuyIFVW2cZY2#00009"
+                    },
+                    "id": {
+                        "S": "2yZax79pOrYuyIFVW2cZY2"
+                    },
+                    "name": {
+                        "S": "Carry On"
+                    },
+                    "album_id": {
+                        "S": "5VdyJkLe3yvOs0l4xXbWp0"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "15UsOTVnJzReFVN1VCnxy4"
+                            },
+                            "name": {
+                                "S": "XXXTENTACION"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "9"
+                    },
+                    "duration": {
+                        "N": "129720"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#5VdyJkLe3yvOs0l4xXbWp0"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00009"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5VdyJkLe3yvOs0l4xXbWp0"
+                    },
+                    "SK": {
+                        "S": "SONG#2UwbhMie1EAYuTZ0QXeMwl#00006"
+                    },
+                    "id": {
+                        "S": "2UwbhMie1EAYuTZ0QXeMwl"
+                    },
+                    "name": {
+                        "S": "Save Me"
+                    },
+                    "album_id": {
+                        "S": "5VdyJkLe3yvOs0l4xXbWp0"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "15UsOTVnJzReFVN1VCnxy4"
+                            },
+                            "name": {
+                                "S": "XXXTENTACION"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "6"
+                    },
+                    "duration": {
+                        "N": "163202"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#5VdyJkLe3yvOs0l4xXbWp0"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00006"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5VdyJkLe3yvOs0l4xXbWp0"
+                    },
+                    "SK": {
+                        "S": "SONG#2H3wWrnO758y0fPH7Ilerg#00003"
+                    },
+                    "id": {
+                        "S": "2H3wWrnO758y0fPH7Ilerg"
+                    },
+                    "name": {
+                        "S": "Depression & Obsession"
+                    },
+                    "album_id": {
+                        "S": "5VdyJkLe3yvOs0l4xXbWp0"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "15UsOTVnJzReFVN1VCnxy4"
+                            },
+                            "name": {
+                                "S": "XXXTENTACION"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "144733"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#5VdyJkLe3yvOs0l4xXbWp0"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5VdyJkLe3yvOs0l4xXbWp0"
+                    },
+                    "SK": {
+                        "S": "SONG#5TXDeTFVRVY7Cvt0Dw4vWW#00005"
+                    },
+                    "id": {
+                        "S": "5TXDeTFVRVY7Cvt0Dw4vWW"
+                    },
+                    "name": {
+                        "S": "Revenge"
+                    },
+                    "album_id": {
+                        "S": "5VdyJkLe3yvOs0l4xXbWp0"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "15UsOTVnJzReFVN1VCnxy4"
+                            },
+                            "name": {
+                                "S": "XXXTENTACION"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "120027"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#5VdyJkLe3yvOs0l4xXbWp0"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5VdyJkLe3yvOs0l4xXbWp0"
+                    },
+                    "SK": {
+                        "S": "SONG#3GVkPk8mqxz0itaAriG1L7#00004"
+                    },
+                    "id": {
+                        "S": "3GVkPk8mqxz0itaAriG1L7"
+                    },
+                    "name": {
+                        "S": "Everybody Dies In Their Nightmares"
+                    },
+                    "album_id": {
+                        "S": "5VdyJkLe3yvOs0l4xXbWp0"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "15UsOTVnJzReFVN1VCnxy4"
+                            },
+                            "name": {
+                                "S": "XXXTENTACION"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "4"
+                    },
+                    "duration": {
+                        "N": "95467"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#5VdyJkLe3yvOs0l4xXbWp0"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00004"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5VdyJkLe3yvOs0l4xXbWp0"
+                    },
+                    "SK": {
+                        "S": "SONG#7m9OqQk4RVRkw9JJdeAw96#00002"
+                    },
+                    "id": {
+                        "S": "7m9OqQk4RVRkw9JJdeAw96"
+                    },
+                    "name": {
+                        "S": "Jocelyn Flores"
+                    },
+                    "album_id": {
+                        "S": "5VdyJkLe3yvOs0l4xXbWp0"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "15UsOTVnJzReFVN1VCnxy4"
+                            },
+                            "name": {
+                                "S": "XXXTENTACION"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "2"
+                    },
+                    "duration": {
+                        "N": "119133"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#5VdyJkLe3yvOs0l4xXbWp0"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00002"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2VP96XdMOKTXefI8Nui23s"
+                    },
+                    "SK": {
+                        "S": "SONG#2QZ7WLBE8h2y1Y5Fb8RYbH#00001"
+                    },
+                    "id": {
+                        "S": "2QZ7WLBE8h2y1Y5Fb8RYbH"
+                    },
+                    "name": {
+                        "S": "In My Blood"
+                    },
+                    "album_id": {
+                        "S": "2VP96XdMOKTXefI8Nui23s"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7n2wHs1TKAczGzO7Dd2rGr"
+                            },
+                            "name": {
+                                "S": "Shawn Mendes"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "1"
+                    },
+                    "duration": {
+                        "N": "211360"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#2VP96XdMOKTXefI8Nui23s"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00001"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#4UNwL1B7JoymNUiTFJa52B"
+                    },
+                    "SK": {
+                        "S": "SONG#7stcuQtnHL7C6XdPvpwywv#00002"
+                    },
+                    "id": {
+                        "S": "7stcuQtnHL7C6XdPvpwywv"
+                    },
+                    "name": {
+                        "S": "Vertigo"
+                    },
+                    "album_id": {
+                        "S": "4UNwL1B7JoymNUiTFJa52B"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "6LuN9FCkKOj5PcnpouEgny"
+                            },
+                            "name": {
+                                "S": "Khalid"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "2"
+                    },
+                    "duration": {
+                        "N": "270413"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#4UNwL1B7JoymNUiTFJa52B"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00002"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6P9PZjWXoCRF5b66BafPKY"
+                    },
+                    "SK": {
+                        "S": "SONG#2EhJijFUs0WUmNClDBpYJq#00005"
+                    },
+                    "id": {
+                        "S": "2EhJijFUs0WUmNClDBpYJq"
+                    },
+                    "name": {
+                        "S": "Make It Back"
+                    },
+                    "album_id": {
+                        "S": "6P9PZjWXoCRF5b66BafPKY"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "4MCBfE4596Uoi2O4DtmEMz"
+                            },
+                            "name": {
+                                "S": "Juice WRLD"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "102560"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6P9PZjWXoCRF5b66BafPKY"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6P9PZjWXoCRF5b66BafPKY"
+                    },
+                    "SK": {
+                        "S": "SONG#2vs5ubqg8QUbfyWZpMfvWe#00002"
+                    },
+                    "id": {
+                        "S": "2vs5ubqg8QUbfyWZpMfvWe"
+                    },
+                    "name": {
+                        "S": "Astronauts"
+                    },
+                    "album_id": {
+                        "S": "6P9PZjWXoCRF5b66BafPKY"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "4MCBfE4596Uoi2O4DtmEMz"
+                            },
+                            "name": {
+                                "S": "Juice WRLD"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Collaboration"
+                    },
+                    "track_num": {
+                        "N": "2"
+                    },
+                    "duration": {
+                        "N": "169920"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6P9PZjWXoCRF5b66BafPKY"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00002"
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,679 @@
+{
+    "MusicPlatform": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Ed Sheeran"
+                    },
+                    "genre": {
+                        "S": "pop"
+                    },
+                    "PK": {
+                        "S": "ARTIST#6eUKZXaKkcviH0Ku9w2n3V"
+                    },
+                    "id": {
+                        "S": "6eUKZXaKkcviH0Ku9w2n3V"
+                    },
+                    "type": {
+                        "S": "singer"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/f55cab0739390cf3b2c2f773b9c779b2f0ae8a99"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Drake"
+                    },
+                    "genre": {
+                        "S": "canadian hip hop"
+                    },
+                    "PK": {
+                        "S": "ARTIST#3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "id": {
+                        "S": "3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "type": {
+                        "S": "rapper"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/012ecd119617ac24ab56620ace4b81735b172686"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "J Balvin"
+                    },
+                    "genre": {
+                        "S": "latin"
+                    },
+                    "PK": {
+                        "S": "ARTIST#1vyhD5VmyZ7KMfW5gqLgo5"
+                    },
+                    "id": {
+                        "S": "1vyhD5VmyZ7KMfW5gqLgo5"
+                    },
+                    "type": {
+                        "S": "singer"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/7f49c99b5e1c1e0210729e062187518e99b19919"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Ozuna"
+                    },
+                    "genre": {
+                        "S": "reggaeton"
+                    },
+                    "PK": {
+                        "S": "ARTIST#1i8SpTcr7yvPOmcqrbnVXY"
+                    },
+                    "id": {
+                        "S": "1i8SpTcr7yvPOmcqrbnVXY"
+                    },
+                    "type": {
+                        "S": "singer"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/490e6f87a88682ba890bfaedee0dd0f512fe5c1e"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Khalid"
+                    },
+                    "genre": {
+                        "S": "pop"
+                    },
+                    "PK": {
+                        "S": "ARTIST#6LuN9FCkKOj5PcnpouEgny"
+                    },
+                    "id": {
+                        "S": "6LuN9FCkKOj5PcnpouEgny"
+                    },
+                    "type": {
+                        "S": "singer"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/e52c824585bfeef4d674b509437120805300f557"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Billie Eilish"
+                    },
+                    "genre": {
+                        "S": "electropop"
+                    },
+                    "PK": {
+                        "S": "ARTIST#6qqNVTkY8uBg9cP3Jd7DAH"
+                    },
+                    "id": {
+                        "S": "6qqNVTkY8uBg9cP3Jd7DAH"
+                    },
+                    "type": {
+                        "S": "singer"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/bcf71477d890a736eb769dc5f8af4e7d28278824"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Taylor Swift"
+                    },
+                    "genre": {
+                        "S": "dance pop"
+                    },
+                    "PK": {
+                        "S": "ARTIST#06HL4z0CvFAxyc27GXpf02"
+                    },
+                    "id": {
+                        "S": "06HL4z0CvFAxyc27GXpf02"
+                    },
+                    "type": {
+                        "S": "singer"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/62b33d12e2b9a033cf77585f6e3d4b2c6b3a63a1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Daddy Yankee"
+                    },
+                    "genre": {
+                        "S": "latin"
+                    },
+                    "PK": {
+                        "S": "ARTIST#4VMYDCV2IEDYJArk749S6m"
+                    },
+                    "id": {
+                        "S": "4VMYDCV2IEDYJArk749S6m"
+                    },
+                    "type": {
+                        "S": "rapper"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/e77af6c6f2a7191df0b82bba7c24cd43c439ae9d"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Ariana Grande"
+                    },
+                    "genre": {
+                        "S": "dance pop"
+                    },
+                    "PK": {
+                        "S": "ARTIST#66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "id": {
+                        "S": "66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "type": {
+                        "S": "singer"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/b1dfbe843b0b9f54ab2e588f33e7637d2dab065a"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Post Malone"
+                    },
+                    "genre": {
+                        "S": "dfw rap"
+                    },
+                    "PK": {
+                        "S": "ARTIST#246dkjvS1zLTtiykXe5h60"
+                    },
+                    "id": {
+                        "S": "246dkjvS1zLTtiykXe5h60"
+                    },
+                    "type": {
+                        "S": "rapper"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/f9d8b742b66609f12da023c472c2685d455930ed"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Shawn Mendes"
+                    },
+                    "genre": {
+                        "S": "canadian pop"
+                    },
+                    "PK": {
+                        "S": "ARTIST#7n2wHs1TKAczGzO7Dd2rGr"
+                    },
+                    "id": {
+                        "S": "7n2wHs1TKAczGzO7Dd2rGr"
+                    },
+                    "type": {
+                        "S": "singer"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/6bd59cfbd3e1e6394af710bddcd62999aae31c6f"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Young Thug"
+                    },
+                    "genre": {
+                        "S": "atl hip hop"
+                    },
+                    "PK": {
+                        "S": "ARTIST#50co4Is1HCEo8bhOyUWKpn"
+                    },
+                    "id": {
+                        "S": "50co4Is1HCEo8bhOyUWKpn"
+                    },
+                    "type": {
+                        "S": "rapper"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/10ea494021e8341a2b5a8fcc8cd3b9a000cbc878"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Travis Scott"
+                    },
+                    "genre": {
+                        "S": "pop"
+                    },
+                    "PK": {
+                        "S": "ARTIST#0Y5tJX1MQlPlqiwlOH1tJY"
+                    },
+                    "id": {
+                        "S": "0Y5tJX1MQlPlqiwlOH1tJY"
+                    },
+                    "type": {
+                        "S": "rapper"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/dc5eba5e032c2e5bc4d42c89d61ffee5875c981f"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Camila Cabello"
+                    },
+                    "genre": {
+                        "S": "dance pop"
+                    },
+                    "PK": {
+                        "S": "ARTIST#4nDoRrQiYLoBzwC5BhVJzF"
+                    },
+                    "id": {
+                        "S": "4nDoRrQiYLoBzwC5BhVJzF"
+                    },
+                    "type": {
+                        "S": "singer"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/bacdc874225b10f2af8cded61bb088734b6a5810"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Eminem"
+                    },
+                    "genre": {
+                        "S": "detroit hip hop"
+                    },
+                    "PK": {
+                        "S": "ARTIST#7dGJo4pcD2V6oG8kP0tJRR"
+                    },
+                    "id": {
+                        "S": "7dGJo4pcD2V6oG8kP0tJRR"
+                    },
+                    "type": {
+                        "S": "rapper"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/60c4daa4721f666c6afaee82a39bd413979a0474"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Justin Bieber"
+                    },
+                    "genre": {
+                        "S": "canadian pop"
+                    },
+                    "PK": {
+                        "S": "ARTIST#1uNFoZAHBGtllmzznpCI3s"
+                    },
+                    "id": {
+                        "S": "1uNFoZAHBGtllmzznpCI3s"
+                    },
+                    "type": {
+                        "S": "singer"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/5c3cf2ee3494e2da71dcf26303202ec491b26213"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Chris Brown"
+                    },
+                    "genre": {
+                        "S": "dance pop"
+                    },
+                    "PK": {
+                        "S": "ARTIST#7bXgB6jMjp9ATFy66eO08Z"
+                    },
+                    "id": {
+                        "S": "7bXgB6jMjp9ATFy66eO08Z"
+                    },
+                    "type": {
+                        "S": "singer"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/e153d6448b17ce97b2a79da70d64b89230c67053"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Nicky Jam"
+                    },
+                    "genre": {
+                        "S": "latin"
+                    },
+                    "PK": {
+                        "S": "ARTIST#1SupJlEpv7RS2tPNRaHViT"
+                    },
+                    "id": {
+                        "S": "1SupJlEpv7RS2tPNRaHViT"
+                    },
+                    "type": {
+                        "S": "singer"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/6c3c3173dd75dcd9a7217960796406732f118626"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Maluma"
+                    },
+                    "genre": {
+                        "S": "reggaeton"
+                    },
+                    "PK": {
+                        "S": "ARTIST#1r4hJ1h58CWwUQe3MxPuau"
+                    },
+                    "id": {
+                        "S": "1r4hJ1h58CWwUQe3MxPuau"
+                    },
+                    "type": {
+                        "S": "singer"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/d12586e8e67dffd2ea281d6eeefbe4b06b06b69a"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "XXXTENTACION"
+                    },
+                    "genre": {
+                        "S": "emo rap"
+                    },
+                    "PK": {
+                        "S": "ARTIST#15UsOTVnJzReFVN1VCnxy4"
+                    },
+                    "id": {
+                        "S": "15UsOTVnJzReFVN1VCnxy4"
+                    },
+                    "type": {
+                        "S": "rapper"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/942afa81f0a2298ead0c154fb7b4b606de48d9e6"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "BTS"
+                    },
+                    "genre": {
+                        "S": "k-pop"
+                    },
+                    "PK": {
+                        "S": "ARTIST#3Nrfpe0tUJi4K4DXYWgMUX"
+                    },
+                    "id": {
+                        "S": "3Nrfpe0tUJi4K4DXYWgMUX"
+                    },
+                    "type": {
+                        "S": "band"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/0c9057cb30520f9f883a220051260fc66a2f3ffa"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Cardi B"
+                    },
+                    "genre": {
+                        "S": "pop"
+                    },
+                    "PK": {
+                        "S": "ARTIST#4kYSro6naA4h99UJvo89HB"
+                    },
+                    "id": {
+                        "S": "4kYSro6naA4h99UJvo89HB"
+                    },
+                    "type": {
+                        "S": "rapper"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/85145039b32b56e911bd2ad39f28f96277aea9f3"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Juice WRLD"
+                    },
+                    "genre": {
+                        "S": "chicago rap"
+                    },
+                    "PK": {
+                        "S": "ARTIST#4MCBfE4596Uoi2O4DtmEMz"
+                    },
+                    "id": {
+                        "S": "4MCBfE4596Uoi2O4DtmEMz"
+                    },
+                    "type": {
+                        "S": "singer"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/d8e62447a338a882b490460da20e90aac6d60ae7"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Nicki Minaj"
+                    },
+                    "genre": {
+                        "S": "dance pop"
+                    },
+                    "PK": {
+                        "S": "ARTIST#0hCNtLu0JehylgoiP8L4Gh"
+                    },
+                    "id": {
+                        "S": "0hCNtLu0JehylgoiP8L4Gh"
+                    },
+                    "type": {
+                        "S": "singer"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/4233ffd43c44fff4f1ffdcdf19484c94aa103ebd"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Tyga"
+                    },
+                    "genre": {
+                        "S": "pop"
+                    },
+                    "PK": {
+                        "S": "ARTIST#5LHRHt1k9lMyONurDHEdrp"
+                    },
+                    "id": {
+                        "S": "5LHRHt1k9lMyONurDHEdrp"
+                    },
+                    "type": {
+                        "S": "rapper"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/25a8fb1bdf4dcca55654e24081ba8b2c98142d3e"
+                    }
+                }
+            }
+        }
+    ]
+}

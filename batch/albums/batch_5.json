@@ -1,0 +1,188 @@
+{
+    "MusicPlatform": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#4KZGe18wZJbXL6JLW4KyLc"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "4KZGe18wZJbXL6JLW4KyLc"
+                    },
+                    "name": {
+                        "S": "A Day At The Races (Deluxe Edition 2011 Remaster)"
+                    },
+                    "track_count": {
+                        "N": "1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1dfeR4HaWDbWqFHLkxsg1d"
+                            },
+                            "name": {
+                                "S": "Queen"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/df36b1a06eeb1f0297b672dc043aa0897518aa87"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#4KZGe18wZJbXL6JLW4KyLc"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#1dfeR4HaWDbWqFHLkxsg1d"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#4KZGe18wZJbXL6JLW4KyLc"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6KT8x5oqZJl9CcnM66hddo"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "6KT8x5oqZJl9CcnM66hddo"
+                    },
+                    "name": {
+                        "S": "Free Spirit"
+                    },
+                    "track_count": {
+                        "N": "1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "6LuN9FCkKOj5PcnpouEgny"
+                            },
+                            "name": {
+                                "S": "Khalid"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/6c1f62bfe24b3cf4a0f1c61448eada0ae0d16dff"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#6KT8x5oqZJl9CcnM66hddo"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#6LuN9FCkKOj5PcnpouEgny"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#6KT8x5oqZJl9CcnM66hddo"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#0wZJCeyfJ0LVrrtH4CwQYw"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "0wZJCeyfJ0LVrrtH4CwQYw"
+                    },
+                    "name": {
+                        "S": "Never Say Never - The Remixes"
+                    },
+                    "track_count": {
+                        "N": "1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1uNFoZAHBGtllmzznpCI3s"
+                            },
+                            "name": {
+                                "S": "Justin Bieber"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/51d03463ec5cbdd541a5ce28d54c26a385ca826f"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#0wZJCeyfJ0LVrrtH4CwQYw"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#1uNFoZAHBGtllmzznpCI3s"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#0wZJCeyfJ0LVrrtH4CwQYw"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#1LShhEEKRT5MNPcO7jtYHh"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "1LShhEEKRT5MNPcO7jtYHh"
+                    },
+                    "name": {
+                        "S": "So Far Gone"
+                    },
+                    "track_count": {
+                        "N": "1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/18bc1f9ce3b4b1d42ec3c70b622710d804cde483"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#1LShhEEKRT5MNPcO7jtYHh"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#1LShhEEKRT5MNPcO7jtYHh"
+                    }
+                }
+            }
+        }
+    ]
+}

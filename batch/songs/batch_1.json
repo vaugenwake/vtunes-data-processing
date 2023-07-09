@@ -1,0 +1,1229 @@
+{
+    "MusicPlatform": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "SK": {
+                        "S": "SONG#6vnfObZ4Ys70SBAtti1xZ9#00017"
+                    },
+                    "id": {
+                        "S": "6vnfObZ4Ys70SBAtti1xZ9"
+                    },
+                    "name": {
+                        "S": "COFFEE BEAN"
+                    },
+                    "album_id": {
+                        "S": "41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0Y5tJX1MQlPlqiwlOH1tJY"
+                            },
+                            "name": {
+                                "S": "Travis Scott"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "17"
+                    },
+                    "duration": {
+                        "N": "209116"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00017"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "SK": {
+                        "S": "SONG#58TaFP5j5i9swOf584yon2#00016"
+                    },
+                    "id": {
+                        "S": "58TaFP5j5i9swOf584yon2"
+                    },
+                    "name": {
+                        "S": "HOUSTONFORNICATION"
+                    },
+                    "album_id": {
+                        "S": "41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0Y5tJX1MQlPlqiwlOH1tJY"
+                            },
+                            "name": {
+                                "S": "Travis Scott"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "16"
+                    },
+                    "duration": {
+                        "N": "217828"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00016"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "SK": {
+                        "S": "SONG#2cYqizR4lgvp4Qu6IQ3qGN#00015"
+                    },
+                    "id": {
+                        "S": "2cYqizR4lgvp4Qu6IQ3qGN"
+                    },
+                    "name": {
+                        "S": "BUTTERFLY EFFECT"
+                    },
+                    "album_id": {
+                        "S": "41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0Y5tJX1MQlPlqiwlOH1tJY"
+                            },
+                            "name": {
+                                "S": "Travis Scott"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "15"
+                    },
+                    "duration": {
+                        "N": "190557"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00015"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "SK": {
+                        "S": "SONG#4MXhiYIRDMGAuvZc5IFTwC#00011"
+                    },
+                    "id": {
+                        "S": "4MXhiYIRDMGAuvZc5IFTwC"
+                    },
+                    "name": {
+                        "S": "ASTROTHUNDER"
+                    },
+                    "album_id": {
+                        "S": "41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0Y5tJX1MQlPlqiwlOH1tJY"
+                            },
+                            "name": {
+                                "S": "Travis Scott"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "11"
+                    },
+                    "duration": {
+                        "N": "142969"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00011"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "SK": {
+                        "S": "SONG#6NMtzpDQBTOfJwMzgMX0zl#00007"
+                    },
+                    "id": {
+                        "S": "6NMtzpDQBTOfJwMzgMX0zl"
+                    },
+                    "name": {
+                        "S": "SKELETONS"
+                    },
+                    "album_id": {
+                        "S": "41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0Y5tJX1MQlPlqiwlOH1tJY"
+                            },
+                            "name": {
+                                "S": "Travis Scott"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "7"
+                    },
+                    "duration": {
+                        "N": "145588"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00007"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "SK": {
+                        "S": "SONG#4KYS9GK68yeuUJ8vJfPxrq#00014"
+                    },
+                    "id": {
+                        "S": "4KYS9GK68yeuUJ8vJfPxrq"
+                    },
+                    "name": {
+                        "S": "WHO? WHAT!"
+                    },
+                    "album_id": {
+                        "S": "41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0Y5tJX1MQlPlqiwlOH1tJY"
+                            },
+                            "name": {
+                                "S": "Travis Scott"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "14"
+                    },
+                    "duration": {
+                        "N": "176720"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00014"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "SK": {
+                        "S": "SONG#6BJbOXDlgVAXSaq6wYFYT2#00010"
+                    },
+                    "id": {
+                        "S": "6BJbOXDlgVAXSaq6wYFYT2"
+                    },
+                    "name": {
+                        "S": "NC-17"
+                    },
+                    "album_id": {
+                        "S": "41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0Y5tJX1MQlPlqiwlOH1tJY"
+                            },
+                            "name": {
+                                "S": "Travis Scott"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "10"
+                    },
+                    "duration": {
+                        "N": "156886"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00010"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "SK": {
+                        "S": "SONG#11kDth1aKUEUMq9r1pqyds#00009"
+                    },
+                    "id": {
+                        "S": "11kDth1aKUEUMq9r1pqyds"
+                    },
+                    "name": {
+                        "S": "5% TINT"
+                    },
+                    "album_id": {
+                        "S": "41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0Y5tJX1MQlPlqiwlOH1tJY"
+                            },
+                            "name": {
+                                "S": "Travis Scott"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "9"
+                    },
+                    "duration": {
+                        "N": "196138"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00009"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "SK": {
+                        "S": "SONG#7KZ5MMVgBVox9ycroB2UrI#00002"
+                    },
+                    "id": {
+                        "S": "7KZ5MMVgBVox9ycroB2UrI"
+                    },
+                    "name": {
+                        "S": "CAROUSEL"
+                    },
+                    "album_id": {
+                        "S": "41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0Y5tJX1MQlPlqiwlOH1tJY"
+                            },
+                            "name": {
+                                "S": "Travis Scott"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "2"
+                    },
+                    "duration": {
+                        "N": "180183"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00002"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "SK": {
+                        "S": "SONG#6OaVWaGfhXn70ZJfdVcabn#00006"
+                    },
+                    "id": {
+                        "S": "6OaVWaGfhXn70ZJfdVcabn"
+                    },
+                    "name": {
+                        "S": "NO BYSTANDERS"
+                    },
+                    "album_id": {
+                        "S": "41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0Y5tJX1MQlPlqiwlOH1tJY"
+                            },
+                            "name": {
+                                "S": "Travis Scott"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "6"
+                    },
+                    "duration": {
+                        "N": "218284"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00006"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "SK": {
+                        "S": "SONG#4SZepBIPDRwPaHIjAKwRDb#00004"
+                    },
+                    "id": {
+                        "S": "4SZepBIPDRwPaHIjAKwRDb"
+                    },
+                    "name": {
+                        "S": "R.I.P. SCREW"
+                    },
+                    "album_id": {
+                        "S": "41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0Y5tJX1MQlPlqiwlOH1tJY"
+                            },
+                            "name": {
+                                "S": "Travis Scott"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "4"
+                    },
+                    "duration": {
+                        "N": "185610"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00004"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "SK": {
+                        "S": "SONG#20MuVazoNMv6xjKPnRFOxG#00008"
+                    },
+                    "id": {
+                        "S": "20MuVazoNMv6xjKPnRFOxG"
+                    },
+                    "name": {
+                        "S": "WAKE UP"
+                    },
+                    "album_id": {
+                        "S": "41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0Y5tJX1MQlPlqiwlOH1tJY"
+                            },
+                            "name": {
+                                "S": "Travis Scott"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "8"
+                    },
+                    "duration": {
+                        "N": "231964"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00008"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "SK": {
+                        "S": "SONG#27a1mYSG5tYg7dmEjWBcmL#00013"
+                    },
+                    "id": {
+                        "S": "27a1mYSG5tYg7dmEjWBcmL"
+                    },
+                    "name": {
+                        "S": "CAN'T SAY"
+                    },
+                    "album_id": {
+                        "S": "41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0Y5tJX1MQlPlqiwlOH1tJY"
+                            },
+                            "name": {
+                                "S": "Travis Scott"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "13"
+                    },
+                    "duration": {
+                        "N": "198408"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00013"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "SK": {
+                        "S": "SONG#1xYpVRspgaLxdJLOTQkTjg#00005"
+                    },
+                    "id": {
+                        "S": "1xYpVRspgaLxdJLOTQkTjg"
+                    },
+                    "name": {
+                        "S": "STOP TRYING TO BE GOD"
+                    },
+                    "album_id": {
+                        "S": "41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0Y5tJX1MQlPlqiwlOH1tJY"
+                            },
+                            "name": {
+                                "S": "Travis Scott"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "338438"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "SK": {
+                        "S": "SONG#7wBJfHzpfI3032CSD7CE2m#00001"
+                    },
+                    "id": {
+                        "S": "7wBJfHzpfI3032CSD7CE2m"
+                    },
+                    "name": {
+                        "S": "STARGAZING"
+                    },
+                    "album_id": {
+                        "S": "41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0Y5tJX1MQlPlqiwlOH1tJY"
+                            },
+                            "name": {
+                                "S": "Travis Scott"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "1"
+                    },
+                    "duration": {
+                        "N": "270715"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00001"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "SK": {
+                        "S": "SONG#7lAK3oHbfEnvUQWosrMMpR#00012"
+                    },
+                    "id": {
+                        "S": "7lAK3oHbfEnvUQWosrMMpR"
+                    },
+                    "name": {
+                        "S": "YOSEMITE"
+                    },
+                    "album_id": {
+                        "S": "41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0Y5tJX1MQlPlqiwlOH1tJY"
+                            },
+                            "name": {
+                                "S": "Travis Scott"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "12"
+                    },
+                    "duration": {
+                        "N": "150043"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00012"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "SK": {
+                        "S": "SONG#2xLMifQCjDGFmkHkpNLD9h#00003"
+                    },
+                    "id": {
+                        "S": "2xLMifQCjDGFmkHkpNLD9h"
+                    },
+                    "name": {
+                        "S": "SICKO MODE"
+                    },
+                    "album_id": {
+                        "S": "41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0Y5tJX1MQlPlqiwlOH1tJY"
+                            },
+                            "name": {
+                                "S": "Travis Scott"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "312820"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#41GuZcammIkupMPKH2OJ6I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6i6folBtxKV28WX3msQ4FE"
+                    },
+                    "SK": {
+                        "S": "SONG#300YN8ebGB90nDuzgz0f3O#00005"
+                    },
+                    "id": {
+                        "S": "300YN8ebGB90nDuzgz0f3O"
+                    },
+                    "name": {
+                        "S": "Killer Queen"
+                    },
+                    "album_id": {
+                        "S": "6i6folBtxKV28WX3msQ4FE"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1dfeR4HaWDbWqFHLkxsg1d"
+                            },
+                            "name": {
+                                "S": "Queen"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "179356"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6i6folBtxKV28WX3msQ4FE"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6i6folBtxKV28WX3msQ4FE"
+                    },
+                    "SK": {
+                        "S": "SONG#1F9NVicWfNQA5ki8WmEtk8#00009"
+                    },
+                    "id": {
+                        "S": "1F9NVicWfNQA5ki8WmEtk8"
+                    },
+                    "name": {
+                        "S": "Crazy Little Thing Called Love"
+                    },
+                    "album_id": {
+                        "S": "6i6folBtxKV28WX3msQ4FE"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1dfeR4HaWDbWqFHLkxsg1d"
+                            },
+                            "name": {
+                                "S": "Queen"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "9"
+                    },
+                    "duration": {
+                        "N": "163342"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6i6folBtxKV28WX3msQ4FE"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00009"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6i6folBtxKV28WX3msQ4FE"
+                    },
+                    "SK": {
+                        "S": "SONG#2k1yPYf9WGA4LiqcLVwtzn#00012"
+                    },
+                    "id": {
+                        "S": "2k1yPYf9WGA4LiqcLVwtzn"
+                    },
+                    "name": {
+                        "S": "Another One Bites The Dust"
+                    },
+                    "album_id": {
+                        "S": "6i6folBtxKV28WX3msQ4FE"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1dfeR4HaWDbWqFHLkxsg1d"
+                            },
+                            "name": {
+                                "S": "Queen"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "12"
+                    },
+                    "duration": {
+                        "N": "214640"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6i6folBtxKV28WX3msQ4FE"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00012"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6i6folBtxKV28WX3msQ4FE"
+                    },
+                    "SK": {
+                        "S": "SONG#7iAqvWLgZzXvH38lA06QZg#00013"
+                    },
+                    "id": {
+                        "S": "7iAqvWLgZzXvH38lA06QZg"
+                    },
+                    "name": {
+                        "S": "I Want To Break Free"
+                    },
+                    "album_id": {
+                        "S": "6i6folBtxKV28WX3msQ4FE"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1dfeR4HaWDbWqFHLkxsg1d"
+                            },
+                            "name": {
+                                "S": "Queen"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "13"
+                    },
+                    "duration": {
+                        "N": "223080"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6i6folBtxKV28WX3msQ4FE"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00013"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6i6folBtxKV28WX3msQ4FE"
+                    },
+                    "SK": {
+                        "S": "SONG#3z8h0TU7ReDPLIbEnYhWZb#00007"
+                    },
+                    "id": {
+                        "S": "3z8h0TU7ReDPLIbEnYhWZb"
+                    },
+                    "name": {
+                        "S": "Bohemian Rhapsody"
+                    },
+                    "album_id": {
+                        "S": "6i6folBtxKV28WX3msQ4FE"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1dfeR4HaWDbWqFHLkxsg1d"
+                            },
+                            "name": {
+                                "S": "Queen"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "7"
+                    },
+                    "duration": {
+                        "N": "354947"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6i6folBtxKV28WX3msQ4FE"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00007"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#1ATL5GLyefJaxhQzSPVrLX"
+                    },
+                    "SK": {
+                        "S": "SONG#09lmraDvzBT3pUQ2rUtJzK#00013"
+                    },
+                    "id": {
+                        "S": "09lmraDvzBT3pUQ2rUtJzK"
+                    },
+                    "name": {
+                        "S": "March 14"
+                    },
+                    "album_id": {
+                        "S": "1ATL5GLyefJaxhQzSPVrLX"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "13"
+                    },
+                    "duration": {
+                        "N": "309560"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#1ATL5GLyefJaxhQzSPVrLX"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00013"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#1ATL5GLyefJaxhQzSPVrLX"
+                    },
+                    "SK": {
+                        "S": "SONG#44Du2IM1bGY7dicmLfXbUs#00012"
+                    },
+                    "id": {
+                        "S": "44Du2IM1bGY7dicmLfXbUs"
+                    },
+                    "name": {
+                        "S": "Final Fantasy"
+                    },
+                    "album_id": {
+                        "S": "1ATL5GLyefJaxhQzSPVrLX"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "12"
+                    },
+                    "duration": {
+                        "N": "219960"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#1ATL5GLyefJaxhQzSPVrLX"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00012"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#1ATL5GLyefJaxhQzSPVrLX"
+                    },
+                    "SK": {
+                        "S": "SONG#4SUwJA3eUVNHExxMPEUhQe#00006"
+                    },
+                    "id": {
+                        "S": "4SUwJA3eUVNHExxMPEUhQe"
+                    },
+                    "name": {
+                        "S": "Ratchet Happy Birthday"
+                    },
+                    "album_id": {
+                        "S": "1ATL5GLyefJaxhQzSPVrLX"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "6"
+                    },
+                    "duration": {
+                        "N": "207307"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#1ATL5GLyefJaxhQzSPVrLX"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00006"
+                    }
+                }
+            }
+        }
+    ]
+}

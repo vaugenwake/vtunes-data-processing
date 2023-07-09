@@ -1,0 +1,139 @@
+{
+    "MusicPlatform": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Queen"
+                    },
+                    "genre": {
+                        "S": "glam rock"
+                    },
+                    "PK": {
+                        "S": "ARTIST#1dfeR4HaWDbWqFHLkxsg1d"
+                    },
+                    "id": {
+                        "S": "1dfeR4HaWDbWqFHLkxsg1d"
+                    },
+                    "type": {
+                        "S": "band"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/b040846ceba13c3e9c125d68389491094e7f2982"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Sam Smith"
+                    },
+                    "genre": {
+                        "S": "pop"
+                    },
+                    "PK": {
+                        "S": "ARTIST#2wY79sveU1sp5g7SokKOiI"
+                    },
+                    "id": {
+                        "S": "2wY79sveU1sp5g7SokKOiI"
+                    },
+                    "type": {
+                        "S": "singer"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/43c481adb3f39709882a7058c2c4c7538d79aa17"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Kanye West"
+                    },
+                    "genre": {
+                        "S": "chicago rap"
+                    },
+                    "PK": {
+                        "S": "ARTIST#5K4W6rqBFWDnAN6FQUkS6x"
+                    },
+                    "id": {
+                        "S": "5K4W6rqBFWDnAN6FQUkS6x"
+                    },
+                    "type": {
+                        "S": "singer"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/a12d8543e28d71d9f1e7f5f363c1a6c73316f9e6"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "J. Cole"
+                    },
+                    "genre": {
+                        "S": "conscious hip hop"
+                    },
+                    "PK": {
+                        "S": "ARTIST#6l3HvQ5sa6mXTsMTB19rO5"
+                    },
+                    "id": {
+                        "S": "6l3HvQ5sa6mXTsMTB19rO5"
+                    },
+                    "type": {
+                        "S": "singer"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/1e9eeefb2c94579150fc37916e8319b975ec8a52"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SK": {
+                        "S": "ARTIST"
+                    },
+                    "name": {
+                        "S": "Rihanna"
+                    },
+                    "genre": {
+                        "S": "dance pop"
+                    },
+                    "PK": {
+                        "S": "ARTIST#5pKCCKE2ajJHZ9KAiaK11H"
+                    },
+                    "id": {
+                        "S": "5pKCCKE2ajJHZ9KAiaK11H"
+                    },
+                    "type": {
+                        "S": "singer"
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/1fc2f537d678d701d7d143a8fd4f0c2f29fbde22"
+                    }
+                }
+            }
+        }
+    ]
+}

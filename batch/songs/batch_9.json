@@ -1,0 +1,1229 @@
+{
+    "MusicPlatform": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "SK": {
+                        "S": "SONG#3dgQqOiQ9fCKVhNOedd2lf#00003"
+                    },
+                    "id": {
+                        "S": "3dgQqOiQ9fCKVhNOedd2lf"
+                    },
+                    "name": {
+                        "S": "Started From the Bottom"
+                    },
+                    "album_id": {
+                        "S": "2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "174120"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "SK": {
+                        "S": "SONG#5Ggfa9cpkpfp5D6Rg0Yyw1#00014"
+                    },
+                    "id": {
+                        "S": "5Ggfa9cpkpfp5D6Rg0Yyw1"
+                    },
+                    "name": {
+                        "S": "Come Thru"
+                    },
+                    "album_id": {
+                        "S": "2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "14"
+                    },
+                    "duration": {
+                        "N": "236360"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00014"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "SK": {
+                        "S": "SONG#69gz9onZQNVw55cMQsaYii#00001"
+                    },
+                    "id": {
+                        "S": "69gz9onZQNVw55cMQsaYii"
+                    },
+                    "name": {
+                        "S": "Tuscan Leather"
+                    },
+                    "album_id": {
+                        "S": "2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "1"
+                    },
+                    "duration": {
+                        "N": "366400"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00001"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "SK": {
+                        "S": "SONG#3EJ9ZuqkL1kwgouugqsLu8#00005"
+                    },
+                    "id": {
+                        "S": "3EJ9ZuqkL1kwgouugqsLu8"
+                    },
+                    "name": {
+                        "S": "Own It"
+                    },
+                    "album_id": {
+                        "S": "2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "252053"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "SK": {
+                        "S": "SONG#5LnXWeA9tuWKI2C1H74iiJ#00012"
+                    },
+                    "id": {
+                        "S": "5LnXWeA9tuWKI2C1H74iiJ"
+                    },
+                    "name": {
+                        "S": "Too Much"
+                    },
+                    "album_id": {
+                        "S": "2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Collaboration"
+                    },
+                    "track_num": {
+                        "N": "12"
+                    },
+                    "duration": {
+                        "N": "261867"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00012"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "SK": {
+                        "S": "SONG#1HnhCD1u0c4dHSMazmWGyM#00004"
+                    },
+                    "id": {
+                        "S": "1HnhCD1u0c4dHSMazmWGyM"
+                    },
+                    "name": {
+                        "S": "Wu-Tang Forever"
+                    },
+                    "album_id": {
+                        "S": "2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "4"
+                    },
+                    "duration": {
+                        "N": "217600"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00004"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "SK": {
+                        "S": "SONG#6s64FyS9n0XYbGMLH3LOWU#00002"
+                    },
+                    "id": {
+                        "S": "6s64FyS9n0XYbGMLH3LOWU"
+                    },
+                    "name": {
+                        "S": "Furthest Thing"
+                    },
+                    "album_id": {
+                        "S": "2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "2"
+                    },
+                    "duration": {
+                        "N": "267373"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00002"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "SK": {
+                        "S": "SONG#3X37NtwadSS0RM20dh2IgP#00006"
+                    },
+                    "id": {
+                        "S": "3X37NtwadSS0RM20dh2IgP"
+                    },
+                    "name": {
+                        "S": "Worst Behavior"
+                    },
+                    "album_id": {
+                        "S": "2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "6"
+                    },
+                    "duration": {
+                        "N": "270200"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00006"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "SK": {
+                        "S": "SONG#5dHpbFmZjWucrol0M7aNGU#00010"
+                    },
+                    "id": {
+                        "S": "5dHpbFmZjWucrol0M7aNGU"
+                    },
+                    "name": {
+                        "S": "The Language"
+                    },
+                    "album_id": {
+                        "S": "2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "10"
+                    },
+                    "duration": {
+                        "N": "224040"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00010"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3wBabo4pmzsYjALMSKY7Iq"
+                    },
+                    "SK": {
+                        "S": "SONG#0AS63m1wHv9n4VVRizK6Hc#00003"
+                    },
+                    "id": {
+                        "S": "0AS63m1wHv9n4VVRizK6Hc"
+                    },
+                    "name": {
+                        "S": "Mercy"
+                    },
+                    "album_id": {
+                        "S": "3wBabo4pmzsYjALMSKY7Iq"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7n2wHs1TKAczGzO7Dd2rGr"
+                            },
+                            "name": {
+                                "S": "Shawn Mendes"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "208733"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3wBabo4pmzsYjALMSKY7Iq"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3wBabo4pmzsYjALMSKY7Iq"
+                    },
+                    "SK": {
+                        "S": "SONG#7JJmb5XwzOO8jgpou264Ml#00001"
+                    },
+                    "id": {
+                        "S": "7JJmb5XwzOO8jgpou264Ml"
+                    },
+                    "name": {
+                        "S": "There's Nothing Holdin' Me Back"
+                    },
+                    "album_id": {
+                        "S": "3wBabo4pmzsYjALMSKY7Iq"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7n2wHs1TKAczGzO7Dd2rGr"
+                            },
+                            "name": {
+                                "S": "Shawn Mendes"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "1"
+                    },
+                    "duration": {
+                        "N": "199440"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3wBabo4pmzsYjALMSKY7Iq"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00001"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3TJz2UBNYJtlEly0sPeNrQ"
+                    },
+                    "SK": {
+                        "S": "SONG#1mXVgsBdtIVeCLJnSnmtdV#00001"
+                    },
+                    "id": {
+                        "S": "1mXVgsBdtIVeCLJnSnmtdV"
+                    },
+                    "name": {
+                        "S": "Too Good At Goodbyes"
+                    },
+                    "album_id": {
+                        "S": "3TJz2UBNYJtlEly0sPeNrQ"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "2wY79sveU1sp5g7SokKOiI"
+                            },
+                            "name": {
+                                "S": "Sam Smith"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "1"
+                    },
+                    "duration": {
+                        "N": "201000"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3TJz2UBNYJtlEly0sPeNrQ"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00001"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5fPglEDz9YEwRgbLRvhCZy"
+                    },
+                    "SK": {
+                        "S": "SONG#14blxrgE0VWAgv5aF2wWmx#00005"
+                    },
+                    "id": {
+                        "S": "14blxrgE0VWAgv5aF2wWmx"
+                    },
+                    "name": {
+                        "S": "Good Life"
+                    },
+                    "album_id": {
+                        "S": "5fPglEDz9YEwRgbLRvhCZy"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5K4W6rqBFWDnAN6FQUkS6x"
+                            },
+                            "name": {
+                                "S": "Kanye West"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Collaboration"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "207000"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#5fPglEDz9YEwRgbLRvhCZy"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5fPglEDz9YEwRgbLRvhCZy"
+                    },
+                    "SK": {
+                        "S": "SONG#2MIBAmYwiuGoKUlpq9B9sZ#00006"
+                    },
+                    "id": {
+                        "S": "2MIBAmYwiuGoKUlpq9B9sZ"
+                    },
+                    "name": {
+                        "S": "Can't Tell Me Nothing"
+                    },
+                    "album_id": {
+                        "S": "5fPglEDz9YEwRgbLRvhCZy"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5K4W6rqBFWDnAN6FQUkS6x"
+                            },
+                            "name": {
+                                "S": "Kanye West"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "6"
+                    },
+                    "duration": {
+                        "N": "271600"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#5fPglEDz9YEwRgbLRvhCZy"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00006"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5fPglEDz9YEwRgbLRvhCZy"
+                    },
+                    "SK": {
+                        "S": "SONG#4fzsfWzRhPawzqhX8Qt9F3#00003"
+                    },
+                    "id": {
+                        "S": "4fzsfWzRhPawzqhX8Qt9F3"
+                    },
+                    "name": {
+                        "S": "Stronger"
+                    },
+                    "album_id": {
+                        "S": "5fPglEDz9YEwRgbLRvhCZy"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5K4W6rqBFWDnAN6FQUkS6x"
+                            },
+                            "name": {
+                                "S": "Kanye West"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "311867"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#5fPglEDz9YEwRgbLRvhCZy"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "SK": {
+                        "S": "SONG#4kdfjhj9xNkYU0R8xlDy8k#00012"
+                    },
+                    "id": {
+                        "S": "4kdfjhj9xNkYU0R8xlDy8k"
+                    },
+                    "name": {
+                        "S": "6 Man"
+                    },
+                    "album_id": {
+                        "S": "0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "12"
+                    },
+                    "duration": {
+                        "N": "167653"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00012"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "SK": {
+                        "S": "SONG#4zLOwx1yRJXWkHKt1XzF1p#00013"
+                    },
+                    "id": {
+                        "S": "4zLOwx1yRJXWkHKt1XzF1p"
+                    },
+                    "name": {
+                        "S": "Now & Forever"
+                    },
+                    "album_id": {
+                        "S": "0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "13"
+                    },
+                    "duration": {
+                        "N": "281320"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00013"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "SK": {
+                        "S": "SONG#3a8tAZFJxlmBwOtrf5L1oC#00007"
+                    },
+                    "id": {
+                        "S": "3a8tAZFJxlmBwOtrf5L1oC"
+                    },
+                    "name": {
+                        "S": "6 God"
+                    },
+                    "album_id": {
+                        "S": "0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "7"
+                    },
+                    "duration": {
+                        "N": "180667"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00007"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "SK": {
+                        "S": "SONG#2durxb17bXcmQJHSt8JAdO#00005"
+                    },
+                    "id": {
+                        "S": "2durxb17bXcmQJHSt8JAdO"
+                    },
+                    "name": {
+                        "S": "No Tellin'"
+                    },
+                    "album_id": {
+                        "S": "0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "310933"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "SK": {
+                        "S": "SONG#1ID1QFSNNxi0hiZCNcwjUC#00001"
+                    },
+                    "id": {
+                        "S": "1ID1QFSNNxi0hiZCNcwjUC"
+                    },
+                    "name": {
+                        "S": "Legend"
+                    },
+                    "album_id": {
+                        "S": "0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "1"
+                    },
+                    "duration": {
+                        "N": "241853"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00001"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "SK": {
+                        "S": "SONG#12d5QFwzh60IIHlsSnAvps#00003"
+                    },
+                    "id": {
+                        "S": "12d5QFwzh60IIHlsSnAvps"
+                    },
+                    "name": {
+                        "S": "10 Bands"
+                    },
+                    "album_id": {
+                        "S": "0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "177733"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "SK": {
+                        "S": "SONG#79XrkTOfV1AqySNjVlygpW#00002"
+                    },
+                    "id": {
+                        "S": "79XrkTOfV1AqySNjVlygpW"
+                    },
+                    "name": {
+                        "S": "Energy"
+                    },
+                    "album_id": {
+                        "S": "0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "2"
+                    },
+                    "duration": {
+                        "N": "181933"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00002"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "SK": {
+                        "S": "SONG#5InOp6q2vvx0fShv3bzFLZ#00004"
+                    },
+                    "id": {
+                        "S": "5InOp6q2vvx0fShv3bzFLZ"
+                    },
+                    "name": {
+                        "S": "Know Yourself"
+                    },
+                    "album_id": {
+                        "S": "0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "4"
+                    },
+                    "duration": {
+                        "N": "275840"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00004"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "SK": {
+                        "S": "SONG#00IH8ZjI9ZGB51WRX1Oesj#00017"
+                    },
+                    "id": {
+                        "S": "00IH8ZjI9ZGB51WRX1Oesj"
+                    },
+                    "name": {
+                        "S": "Trust"
+                    },
+                    "album_id": {
+                        "S": "6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1uNFoZAHBGtllmzznpCI3s"
+                            },
+                            "name": {
+                                "S": "Justin Bieber"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "17"
+                    },
+                    "duration": {
+                        "N": "203613"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00017"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "SK": {
+                        "S": "SONG#4AMnUGvZUVJgDuY7rOPzUZ#00015"
+                    },
+                    "id": {
+                        "S": "4AMnUGvZUVJgDuY7rOPzUZ"
+                    },
+                    "name": {
+                        "S": "Get Used To It"
+                    },
+                    "album_id": {
+                        "S": "6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1uNFoZAHBGtllmzznpCI3s"
+                            },
+                            "name": {
+                                "S": "Justin Bieber"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "15"
+                    },
+                    "duration": {
+                        "N": "238133"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00015"
+                    }
+                }
+            }
+        }
+    ]
+}

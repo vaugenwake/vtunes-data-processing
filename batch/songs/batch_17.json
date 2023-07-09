@@ -1,0 +1,935 @@
+{
+    "MusicPlatform": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6p5pW2WwgVECsOhrXPAyhI"
+                    },
+                    "SK": {
+                        "S": "SONG#1vwUsp52io0AGQ5yv470IC#00003"
+                    },
+                    "id": {
+                        "S": "1vwUsp52io0AGQ5yv470IC"
+                    },
+                    "name": {
+                        "S": "Take You Down"
+                    },
+                    "album_id": {
+                        "S": "6p5pW2WwgVECsOhrXPAyhI"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7bXgB6jMjp9ATFy66eO08Z"
+                            },
+                            "name": {
+                                "S": "Chris Brown"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "245933"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6p5pW2WwgVECsOhrXPAyhI"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#0GarKYA3ebL7sQx7IP2SSt"
+                    },
+                    "SK": {
+                        "S": "SONG#4jjPvqzUHNYuNEtSJnklwJ#00005"
+                    },
+                    "id": {
+                        "S": "4jjPvqzUHNYuNEtSJnklwJ"
+                    },
+                    "name": {
+                        "S": "Impacto"
+                    },
+                    "album_id": {
+                        "S": "0GarKYA3ebL7sQx7IP2SSt"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "4VMYDCV2IEDYJArk749S6m"
+                            },
+                            "name": {
+                                "S": "Daddy Yankee"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "185107"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#0GarKYA3ebL7sQx7IP2SSt"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2JdjS6jjOml7nt7Yjo0nnh"
+                    },
+                    "SK": {
+                        "S": "SONG#30cSNer6TV8x2utjULVeQ5#00001"
+                    },
+                    "id": {
+                        "S": "30cSNer6TV8x2utjULVeQ5"
+                    },
+                    "name": {
+                        "S": "SOS"
+                    },
+                    "album_id": {
+                        "S": "2JdjS6jjOml7nt7Yjo0nnh"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5pKCCKE2ajJHZ9KAiaK11H"
+                            },
+                            "name": {
+                                "S": "Rihanna"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "1"
+                    },
+                    "duration": {
+                        "N": "238920"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#2JdjS6jjOml7nt7Yjo0nnh"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00001"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2JdjS6jjOml7nt7Yjo0nnh"
+                    },
+                    "SK": {
+                        "S": "SONG#13xxBnXOuiBxVxJI458B0i#00003"
+                    },
+                    "id": {
+                        "S": "13xxBnXOuiBxVxJI458B0i"
+                    },
+                    "name": {
+                        "S": "Unfaithful"
+                    },
+                    "album_id": {
+                        "S": "2JdjS6jjOml7nt7Yjo0nnh"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5pKCCKE2ajJHZ9KAiaK11H"
+                            },
+                            "name": {
+                                "S": "Rihanna"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "226973"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#2JdjS6jjOml7nt7Yjo0nnh"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#4FyGpObwABjn0o8Tdp7AZz"
+                    },
+                    "SK": {
+                        "S": "SONG#4TsmezEQVSZNNPv5RJ65Ov#00001"
+                    },
+                    "id": {
+                        "S": "4TsmezEQVSZNNPv5RJ65Ov"
+                    },
+                    "name": {
+                        "S": "Pon de Replay"
+                    },
+                    "album_id": {
+                        "S": "4FyGpObwABjn0o8Tdp7AZz"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5pKCCKE2ajJHZ9KAiaK11H"
+                            },
+                            "name": {
+                                "S": "Rihanna"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "1"
+                    },
+                    "duration": {
+                        "N": "246960"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#4FyGpObwABjn0o8Tdp7AZz"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00001"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#4FyGpObwABjn0o8Tdp7AZz"
+                    },
+                    "SK": {
+                        "S": "SONG#4x2rgtSFOI4hRvEvDj02KP#00003"
+                    },
+                    "id": {
+                        "S": "4x2rgtSFOI4hRvEvDj02KP"
+                    },
+                    "name": {
+                        "S": "If It's Lovin' That You Want"
+                    },
+                    "album_id": {
+                        "S": "4FyGpObwABjn0o8Tdp7AZz"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5pKCCKE2ajJHZ9KAiaK11H"
+                            },
+                            "name": {
+                                "S": "Rihanna"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "208107"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#4FyGpObwABjn0o8Tdp7AZz"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5i2HhIrYyMNQvmsBk9h8Im"
+                    },
+                    "SK": {
+                        "S": "SONG#6jEZLz3YpnEBRpVkv35AmP#00005"
+                    },
+                    "id": {
+                        "S": "6jEZLz3YpnEBRpVkv35AmP"
+                    },
+                    "name": {
+                        "S": "Gasolina"
+                    },
+                    "album_id": {
+                        "S": "5i2HhIrYyMNQvmsBk9h8Im"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "4VMYDCV2IEDYJArk749S6m"
+                            },
+                            "name": {
+                                "S": "Daddy Yankee"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "192600"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#5i2HhIrYyMNQvmsBk9h8Im"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5i2HhIrYyMNQvmsBk9h8Im"
+                    },
+                    "SK": {
+                        "S": "SONG#3S2wsVP6VihPaMdxrRELmA#00006"
+                    },
+                    "id": {
+                        "S": "3S2wsVP6VihPaMdxrRELmA"
+                    },
+                    "name": {
+                        "S": "Like You"
+                    },
+                    "album_id": {
+                        "S": "5i2HhIrYyMNQvmsBk9h8Im"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "4VMYDCV2IEDYJArk749S6m"
+                            },
+                            "name": {
+                                "S": "Daddy Yankee"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "6"
+                    },
+                    "duration": {
+                        "N": "202933"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#5i2HhIrYyMNQvmsBk9h8Im"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00006"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7kiDOzNkoKCEgqGZrpPrej"
+                    },
+                    "SK": {
+                        "S": "SONG#1MX6kqZ8FOht5UnQuPl6Jj#00001"
+                    },
+                    "id": {
+                        "S": "1MX6kqZ8FOht5UnQuPl6Jj"
+                    },
+                    "name": {
+                        "S": "I Want It All - Single Version"
+                    },
+                    "album_id": {
+                        "S": "7kiDOzNkoKCEgqGZrpPrej"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1dfeR4HaWDbWqFHLkxsg1d"
+                            },
+                            "name": {
+                                "S": "Queen"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "1"
+                    },
+                    "duration": {
+                        "N": "242093"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#7kiDOzNkoKCEgqGZrpPrej"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00001"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#0pEfDPZko6TnNOgrZMe5nn"
+                    },
+                    "SK": {
+                        "S": "SONG#3ROPrLWea9uICOW4V2Px1y#00001"
+                    },
+                    "id": {
+                        "S": "3ROPrLWea9uICOW4V2Px1y"
+                    },
+                    "name": {
+                        "S": "One Vision - Remastered 2011"
+                    },
+                    "album_id": {
+                        "S": "0pEfDPZko6TnNOgrZMe5nn"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1dfeR4HaWDbWqFHLkxsg1d"
+                            },
+                            "name": {
+                                "S": "Queen"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "1"
+                    },
+                    "duration": {
+                        "N": "311027"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#0pEfDPZko6TnNOgrZMe5nn"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00001"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#0pEfDPZko6TnNOgrZMe5nn"
+                    },
+                    "SK": {
+                        "S": "SONG#5RYLa5P4qweEAKq5U1gdcK#00002"
+                    },
+                    "id": {
+                        "S": "5RYLa5P4qweEAKq5U1gdcK"
+                    },
+                    "name": {
+                        "S": "A Kind Of Magic - Remastered 2011"
+                    },
+                    "album_id": {
+                        "S": "0pEfDPZko6TnNOgrZMe5nn"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1dfeR4HaWDbWqFHLkxsg1d"
+                            },
+                            "name": {
+                                "S": "Queen"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "2"
+                    },
+                    "duration": {
+                        "N": "264253"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#0pEfDPZko6TnNOgrZMe5nn"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00002"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5RS9xkMuDmeVISqGDBmnSa"
+                    },
+                    "SK": {
+                        "S": "SONG#1nQRg9q9uwALGzouOX5OyQ#00001"
+                    },
+                    "id": {
+                        "S": "1nQRg9q9uwALGzouOX5OyQ"
+                    },
+                    "name": {
+                        "S": "Radio Ga Ga - Remastered"
+                    },
+                    "album_id": {
+                        "S": "5RS9xkMuDmeVISqGDBmnSa"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1dfeR4HaWDbWqFHLkxsg1d"
+                            },
+                            "name": {
+                                "S": "Queen"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "1"
+                    },
+                    "duration": {
+                        "N": "348227"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#5RS9xkMuDmeVISqGDBmnSa"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00001"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5RS9xkMuDmeVISqGDBmnSa"
+                    },
+                    "SK": {
+                        "S": "SONG#34MoKBRdC9JDjcL4b4X1Ic#00003"
+                    },
+                    "id": {
+                        "S": "34MoKBRdC9JDjcL4b4X1Ic"
+                    },
+                    "name": {
+                        "S": "It's A Hard Life - Remastered 2011"
+                    },
+                    "album_id": {
+                        "S": "5RS9xkMuDmeVISqGDBmnSa"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1dfeR4HaWDbWqFHLkxsg1d"
+                            },
+                            "name": {
+                                "S": "Queen"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "246973"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#5RS9xkMuDmeVISqGDBmnSa"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2yuTRGIackbcReLUXOYBqU"
+                    },
+                    "SK": {
+                        "S": "SONG#5T8EDUDqKcs6OSOwEsfqG7#00012"
+                    },
+                    "id": {
+                        "S": "5T8EDUDqKcs6OSOwEsfqG7"
+                    },
+                    "name": {
+                        "S": "Don't Stop Me Now - Remastered"
+                    },
+                    "album_id": {
+                        "S": "2yuTRGIackbcReLUXOYBqU"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1dfeR4HaWDbWqFHLkxsg1d"
+                            },
+                            "name": {
+                                "S": "Queen"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "12"
+                    },
+                    "duration": {
+                        "N": "209413"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#2yuTRGIackbcReLUXOYBqU"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00012"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7tB40pGzj6Tg0HePj2jWZt"
+                    },
+                    "SK": {
+                        "S": "SONG#1lCRw5FEZ1gPDNPzy1K4zW#00002"
+                    },
+                    "id": {
+                        "S": "1lCRw5FEZ1gPDNPzy1K4zW"
+                    },
+                    "name": {
+                        "S": "We Are The Champions - Remastered 2011"
+                    },
+                    "album_id": {
+                        "S": "7tB40pGzj6Tg0HePj2jWZt"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1dfeR4HaWDbWqFHLkxsg1d"
+                            },
+                            "name": {
+                                "S": "Queen"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "2"
+                    },
+                    "duration": {
+                        "N": "179200"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#7tB40pGzj6Tg0HePj2jWZt"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00002"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#4KZGe18wZJbXL6JLW4KyLc"
+                    },
+                    "SK": {
+                        "S": "SONG#4mLKx7zsUdyT4Ax7rI7KXu#00001"
+                    },
+                    "id": {
+                        "S": "4mLKx7zsUdyT4Ax7rI7KXu"
+                    },
+                    "name": {
+                        "S": "Tie Your Mother Down - Remastered 2011"
+                    },
+                    "album_id": {
+                        "S": "4KZGe18wZJbXL6JLW4KyLc"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1dfeR4HaWDbWqFHLkxsg1d"
+                            },
+                            "name": {
+                                "S": "Queen"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "1"
+                    },
+                    "duration": {
+                        "N": "287427"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#4KZGe18wZJbXL6JLW4KyLc"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00001"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6KT8x5oqZJl9CcnM66hddo"
+                    },
+                    "SK": {
+                        "S": "SONG#6TqXcAFInzjp0bODyvrWEq#00005"
+                    },
+                    "id": {
+                        "S": "6TqXcAFInzjp0bODyvrWEq"
+                    },
+                    "name": {
+                        "S": "Talk"
+                    },
+                    "album_id": {
+                        "S": "6KT8x5oqZJl9CcnM66hddo"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "6LuN9FCkKOj5PcnpouEgny"
+                            },
+                            "name": {
+                                "S": "Khalid"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "197573"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6KT8x5oqZJl9CcnM66hddo"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#0wZJCeyfJ0LVrrtH4CwQYw"
+                    },
+                    "SK": {
+                        "S": "SONG#1gWnUzwTMhOv4cWyj1CDxB#00007"
+                    },
+                    "id": {
+                        "S": "1gWnUzwTMhOv4cWyj1CDxB"
+                    },
+                    "name": {
+                        "S": "Born To Be Somebody"
+                    },
+                    "album_id": {
+                        "S": "0wZJCeyfJ0LVrrtH4CwQYw"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1uNFoZAHBGtllmzznpCI3s"
+                            },
+                            "name": {
+                                "S": "Justin Bieber"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "7"
+                    },
+                    "duration": {
+                        "N": "181027"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#0wZJCeyfJ0LVrrtH4CwQYw"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00007"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#1LShhEEKRT5MNPcO7jtYHh"
+                    },
+                    "SK": {
+                        "S": "SONG#6NwhtCYkfwWlcR62Ac4E7y#00003"
+                    },
+                    "id": {
+                        "S": "6NwhtCYkfwWlcR62Ac4E7y"
+                    },
+                    "name": {
+                        "S": "Successful (feat. Trey Songz & Lil Wayne)"
+                    },
+                    "album_id": {
+                        "S": "1LShhEEKRT5MNPcO7jtYHh"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Collaboration"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "375050"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#1LShhEEKRT5MNPcO7jtYHh"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        }
+    ]
+}

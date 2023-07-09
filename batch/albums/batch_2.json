@@ -1,0 +1,1154 @@
+{
+    "MusicPlatform": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#1xn54DMo2qIqBuMqHtUsFd"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "1xn54DMo2qIqBuMqHtUsFd"
+                    },
+                    "name": {
+                        "S": "x (Deluxe Edition)"
+                    },
+                    "track_count": {
+                        "N": "6"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "6eUKZXaKkcviH0Ku9w2n3V"
+                            },
+                            "name": {
+                                "S": "Ed Sheeran"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/b68b39fdc2409d0f526ad48775ddcd93ff496cda"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#1xn54DMo2qIqBuMqHtUsFd"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#6eUKZXaKkcviH0Ku9w2n3V"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#1xn54DMo2qIqBuMqHtUsFd"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#1lXY618HWkwYKJWBRYR4MK"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "1lXY618HWkwYKJWBRYR4MK"
+                    },
+                    "name": {
+                        "S": "More Life"
+                    },
+                    "track_count": {
+                        "N": "13"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/974010663ebd1e267ac11de88e07647eefbfa19d"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#1lXY618HWkwYKJWBRYR4MK"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#1lXY618HWkwYKJWBRYR4MK"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7viNUmZZ8ztn2UB4XB3jIL"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "7viNUmZZ8ztn2UB4XB3jIL"
+                    },
+                    "name": {
+                        "S": "2014 Forest Hills Drive"
+                    },
+                    "track_count": {
+                        "N": "4"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "6l3HvQ5sa6mXTsMTB19rO5"
+                            },
+                            "name": {
+                                "S": "J. Cole"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/9c5d0ed04c5d5ca1fb3027cdc860698c89da4942"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#7viNUmZZ8ztn2UB4XB3jIL"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#6l3HvQ5sa6mXTsMTB19rO5"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#7viNUmZZ8ztn2UB4XB3jIL"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#0SukGZiXMtmsZoxstkBtNR"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "0SukGZiXMtmsZoxstkBtNR"
+                    },
+                    "name": {
+                        "S": "Aura"
+                    },
+                    "track_count": {
+                        "N": "1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1i8SpTcr7yvPOmcqrbnVXY"
+                            },
+                            "name": {
+                                "S": "Ozuna"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/45adb654d206d13869be601bed4ecb57356e09be"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#0SukGZiXMtmsZoxstkBtNR"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#1i8SpTcr7yvPOmcqrbnVXY"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#0SukGZiXMtmsZoxstkBtNR"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#1yGbNOtRIgdIiGHOEBaZWf"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "1yGbNOtRIgdIiGHOEBaZWf"
+                    },
+                    "name": {
+                        "S": "1989 (Deluxe)"
+                    },
+                    "track_count": {
+                        "N": "7"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "06HL4z0CvFAxyc27GXpf02"
+                            },
+                            "name": {
+                                "S": "Taylor Swift"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/8971a383560d1338f058e2c7fedea0f02a4e7047"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#1yGbNOtRIgdIiGHOEBaZWf"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#06HL4z0CvFAxyc27GXpf02"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#1yGbNOtRIgdIiGHOEBaZWf"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#42WVQWuf1teDysXiOupIZt"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "42WVQWuf1teDysXiOupIZt"
+                    },
+                    "name": {
+                        "S": "Birds In The Trap Sing McKnight"
+                    },
+                    "track_count": {
+                        "N": "2"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0Y5tJX1MQlPlqiwlOH1tJY"
+                            },
+                            "name": {
+                                "S": "Travis Scott"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/6c41981dc659cc8a19a0371f42951d8dec48db7c"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#42WVQWuf1teDysXiOupIZt"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#0Y5tJX1MQlPlqiwlOH1tJY"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#42WVQWuf1teDysXiOupIZt"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3zak0kNLcOY5vFcB3Ipskp"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "3zak0kNLcOY5vFcB3Ipskp"
+                    },
+                    "name": {
+                        "S": "Heartbreak on a Full Moon"
+                    },
+                    "track_count": {
+                        "N": "1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7bXgB6jMjp9ATFy66eO08Z"
+                            },
+                            "name": {
+                                "S": "Chris Brown"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/3135401b9bf1eb3e70b50639078f991bf08b2765"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#3zak0kNLcOY5vFcB3Ipskp"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#7bXgB6jMjp9ATFy66eO08Z"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#3zak0kNLcOY5vFcB3Ipskp"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3OZgEywV4krCZ814pTJWr7"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "3OZgEywV4krCZ814pTJWr7"
+                    },
+                    "name": {
+                        "S": "Dangerous Woman"
+                    },
+                    "track_count": {
+                        "N": "3"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "66CXWjxzNUsdJxJ2JdwvnR"
+                            },
+                            "name": {
+                                "S": "Ariana Grande"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/7625508bdbd4f4c2a92ef996ce07948b7e2adcf7"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#3OZgEywV4krCZ814pTJWr7"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#3OZgEywV4krCZ814pTJWr7"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#4UlGauD7ROb3YbVOFMgW5u"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "4UlGauD7ROb3YbVOFMgW5u"
+                    },
+                    "name": {
+                        "S": "ANTI (Deluxe)"
+                    },
+                    "track_count": {
+                        "N": "4"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5pKCCKE2ajJHZ9KAiaK11H"
+                            },
+                            "name": {
+                                "S": "Rihanna"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/e1bd4c89d2b558253f41094e65130c9fd2dcbd2c"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#4UlGauD7ROb3YbVOFMgW5u"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#5pKCCKE2ajJHZ9KAiaK11H"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#4UlGauD7ROb3YbVOFMgW5u"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#08jWgM4vSkTose4blKBWov"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "08jWgM4vSkTose4blKBWov"
+                    },
+                    "name": {
+                        "S": "In The Lonely Hour"
+                    },
+                    "track_count": {
+                        "N": "4"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "2wY79sveU1sp5g7SokKOiI"
+                            },
+                            "name": {
+                                "S": "Sam Smith"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/49c34b3c9a2e7da5b1e847c21e8c0c883d78af77"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#08jWgM4vSkTose4blKBWov"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#2wY79sveU1sp5g7SokKOiI"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#08jWgM4vSkTose4blKBWov"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "name": {
+                        "S": "Nothing Was The Same (Deluxe)"
+                    },
+                    "track_count": {
+                        "N": "9"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/ea3fb48018ec6d5b1ca43b6d37edfefc4862008f"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#2ZUFSbIkmFkGag000RWOpA"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#2ZUFSbIkmFkGag000RWOpA"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3wBabo4pmzsYjALMSKY7Iq"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "3wBabo4pmzsYjALMSKY7Iq"
+                    },
+                    "name": {
+                        "S": "Illuminate (Deluxe)"
+                    },
+                    "track_count": {
+                        "N": "2"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7n2wHs1TKAczGzO7Dd2rGr"
+                            },
+                            "name": {
+                                "S": "Shawn Mendes"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/701821588b25e50cff2b6196668990fadc44da10"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#3wBabo4pmzsYjALMSKY7Iq"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#7n2wHs1TKAczGzO7Dd2rGr"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#3wBabo4pmzsYjALMSKY7Iq"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3TJz2UBNYJtlEly0sPeNrQ"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "3TJz2UBNYJtlEly0sPeNrQ"
+                    },
+                    "name": {
+                        "S": "The Thrill Of It All (Special Edition)"
+                    },
+                    "track_count": {
+                        "N": "1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "2wY79sveU1sp5g7SokKOiI"
+                            },
+                            "name": {
+                                "S": "Sam Smith"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/fad0f26bf49f4c6d6f43ee321d709b3974c7739d"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#3TJz2UBNYJtlEly0sPeNrQ"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#2wY79sveU1sp5g7SokKOiI"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#3TJz2UBNYJtlEly0sPeNrQ"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5fPglEDz9YEwRgbLRvhCZy"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "5fPglEDz9YEwRgbLRvhCZy"
+                    },
+                    "name": {
+                        "S": "Graduation"
+                    },
+                    "track_count": {
+                        "N": "3"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5K4W6rqBFWDnAN6FQUkS6x"
+                            },
+                            "name": {
+                                "S": "Kanye West"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/2be99e6ce2bb214a9072e315f4e17948af30af75"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#5fPglEDz9YEwRgbLRvhCZy"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#5K4W6rqBFWDnAN6FQUkS6x"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#5fPglEDz9YEwRgbLRvhCZy"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "name": {
+                        "S": "If You're Reading This It's Too Late"
+                    },
+                    "track_count": {
+                        "N": "8"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3TVXtAsR1Inumwj472S9r4"
+                            },
+                            "name": {
+                                "S": "Drake"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/d329671363eb7826b5871eef978841c7db97c757"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#0ptlfJfwGTy0Yvrk14JK1I"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#0ptlfJfwGTy0Yvrk14JK1I"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "name": {
+                        "S": "Purpose (Deluxe)"
+                    },
+                    "track_count": {
+                        "N": "12"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1uNFoZAHBGtllmzznpCI3s"
+                            },
+                            "name": {
+                                "S": "Justin Bieber"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/8b47495ce0c4a341f7196f70bcf4361e6257c1a0"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#1uNFoZAHBGtllmzznpCI3s"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#47BiFcV59TQi2s9SkBo2pb"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "47BiFcV59TQi2s9SkBo2pb"
+                    },
+                    "name": {
+                        "S": "Recovery"
+                    },
+                    "track_count": {
+                        "N": "5"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7dGJo4pcD2V6oG8kP0tJRR"
+                            },
+                            "name": {
+                                "S": "Eminem"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/e1e39d7fc409f95d2b3c04964875fb0d7f1fe8a0"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#47BiFcV59TQi2s9SkBo2pb"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#7dGJo4pcD2V6oG8kP0tJRR"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#47BiFcV59TQi2s9SkBo2pb"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "name": {
+                        "S": "The Life Of Pablo"
+                    },
+                    "track_count": {
+                        "N": "9"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5K4W6rqBFWDnAN6FQUkS6x"
+                            },
+                            "name": {
+                                "S": "Kanye West"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/443372cd2c6d4245833fb46ac1c5dabca00c78a9"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#5K4W6rqBFWDnAN6FQUkS6x"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#7gsWAHLeT0w7es6FofOXk1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#0U6ldwLBEMkwgfQRY4V6D2"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "0U6ldwLBEMkwgfQRY4V6D2"
+                    },
+                    "name": {
+                        "S": "Revival"
+                    },
+                    "track_count": {
+                        "N": "2"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7dGJo4pcD2V6oG8kP0tJRR"
+                            },
+                            "name": {
+                                "S": "Eminem"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/fcea66754c5ea32f09ef4d73db269d25e7622c2f"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#0U6ldwLBEMkwgfQRY4V6D2"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#7dGJo4pcD2V6oG8kP0tJRR"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#0U6ldwLBEMkwgfQRY4V6D2"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2cWBwpqMsDJC1ZUwz813lo"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "2cWBwpqMsDJC1ZUwz813lo"
+                    },
+                    "name": {
+                        "S": "The Eminem Show"
+                    },
+                    "track_count": {
+                        "N": "4"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7dGJo4pcD2V6oG8kP0tJRR"
+                            },
+                            "name": {
+                                "S": "Eminem"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/77eb7c17cafe550370eda35f1085fcf20592eec7"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#2cWBwpqMsDJC1ZUwz813lo"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#7dGJo4pcD2V6oG8kP0tJRR"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#2cWBwpqMsDJC1ZUwz813lo"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#4PWBTB6NYSKQwfo79I3prg"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "4PWBTB6NYSKQwfo79I3prg"
+                    },
+                    "name": {
+                        "S": "Rodeo (Expanded Edition)"
+                    },
+                    "track_count": {
+                        "N": "1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0Y5tJX1MQlPlqiwlOH1tJY"
+                            },
+                            "name": {
+                                "S": "Travis Scott"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/300ea7f7951a76153860ef3de16ddcc814f5c13c"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#4PWBTB6NYSKQwfo79I3prg"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#0Y5tJX1MQlPlqiwlOH1tJY"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#4PWBTB6NYSKQwfo79I3prg"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2jJfnAZE6IG3oYnUv2eCj4"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "2jJfnAZE6IG3oYnUv2eCj4"
+                    },
+                    "name": {
+                        "S": "Love Yourself \u8f49 'Tear'"
+                    },
+                    "track_count": {
+                        "N": "1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3Nrfpe0tUJi4K4DXYWgMUX"
+                            },
+                            "name": {
+                                "S": "BTS"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/2bb8b49298155123402a78f1a68a245c0051c1c0"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#2jJfnAZE6IG3oYnUv2eCj4"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#3Nrfpe0tUJi4K4DXYWgMUX"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#2jJfnAZE6IG3oYnUv2eCj4"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2FTS6a6DLXMNp8flyA0HGO"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "2FTS6a6DLXMNp8flyA0HGO"
+                    },
+                    "name": {
+                        "S": "Love Yourself \u627f 'Her'"
+                    },
+                    "track_count": {
+                        "N": "1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "3Nrfpe0tUJi4K4DXYWgMUX"
+                            },
+                            "name": {
+                                "S": "BTS"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/d69dbdee8294ad485658afd4cf9c1eee3d03a5e2"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#2FTS6a6DLXMNp8flyA0HGO"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#3Nrfpe0tUJi4K4DXYWgMUX"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#2FTS6a6DLXMNp8flyA0HGO"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#20r762YmB5HeofjMCiPMLv"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "20r762YmB5HeofjMCiPMLv"
+                    },
+                    "name": {
+                        "S": "My Beautiful Dark Twisted Fantasy"
+                    },
+                    "track_count": {
+                        "N": "4"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5K4W6rqBFWDnAN6FQUkS6x"
+                            },
+                            "name": {
+                                "S": "Kanye West"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/cafd8763a050dabc4f6157172bb09a23d09abde3"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#20r762YmB5HeofjMCiPMLv"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#5K4W6rqBFWDnAN6FQUkS6x"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#20r762YmB5HeofjMCiPMLv"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#4jTYApZPMapg56gRycOn0D"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "4jTYApZPMapg56gRycOn0D"
+                    },
+                    "name": {
+                        "S": "Red (Big Machine Radio Release Special)"
+                    },
+                    "track_count": {
+                        "N": "5"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "06HL4z0CvFAxyc27GXpf02"
+                            },
+                            "name": {
+                                "S": "Taylor Swift"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/77eb7c17cafe5503cac647e30f46e84f4e7216d1"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#4jTYApZPMapg56gRycOn0D"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#06HL4z0CvFAxyc27GXpf02"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#4jTYApZPMapg56gRycOn0D"
+                    }
+                }
+            }
+        }
+    ]
+}

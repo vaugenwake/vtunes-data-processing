@@ -1,0 +1,1154 @@
+{
+    "MusicPlatform": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7vN82vd1Vq44fjlhjfvHJp"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "7vN82vd1Vq44fjlhjfvHJp"
+                    },
+                    "name": {
+                        "S": "Loud"
+                    },
+                    "track_count": {
+                        "N": "5"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5pKCCKE2ajJHZ9KAiaK11H"
+                            },
+                            "name": {
+                                "S": "Rihanna"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/1b05efc37ab3ddc68c413dcc3b7e318a24109fb1"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#7vN82vd1Vq44fjlhjfvHJp"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#5pKCCKE2ajJHZ9KAiaK11H"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#7vN82vd1Vq44fjlhjfvHJp"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#1GbtB4zTqAsyfZEsm1RZfx"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "1GbtB4zTqAsyfZEsm1RZfx"
+                    },
+                    "name": {
+                        "S": "A Night At The Opera (2011 Remaster)"
+                    },
+                    "track_count": {
+                        "N": "1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1dfeR4HaWDbWqFHLkxsg1d"
+                            },
+                            "name": {
+                                "S": "Queen"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/beae4292c3214147a7201ef48f855b4ed40ff84e"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#1GbtB4zTqAsyfZEsm1RZfx"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#1dfeR4HaWDbWqFHLkxsg1d"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#1GbtB4zTqAsyfZEsm1RZfx"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7tsXPtLqhab1zWeubbf6JH"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "7tsXPtLqhab1zWeubbf6JH"
+                    },
+                    "name": {
+                        "S": "Encore"
+                    },
+                    "track_count": {
+                        "N": "4"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7dGJo4pcD2V6oG8kP0tJRR"
+                            },
+                            "name": {
+                                "S": "Eminem"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/3847820c1f559cb933a28bb960a56626e129ec05"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#7tsXPtLqhab1zWeubbf6JH"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#7dGJo4pcD2V6oG8kP0tJRR"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#7tsXPtLqhab1zWeubbf6JH"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7MZzYkbHL9Tk3O6WeD4Z0Z"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "7MZzYkbHL9Tk3O6WeD4Z0Z"
+                    },
+                    "name": {
+                        "S": "Relapse: Refill"
+                    },
+                    "track_count": {
+                        "N": "8"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7dGJo4pcD2V6oG8kP0tJRR"
+                            },
+                            "name": {
+                                "S": "Eminem"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/e74585aca312d5b33cff46b4dbaf20fbe72775c3"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#7MZzYkbHL9Tk3O6WeD4Z0Z"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#7dGJo4pcD2V6oG8kP0tJRR"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#7MZzYkbHL9Tk3O6WeD4Z0Z"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6fABwONLawdFjkDpLx41j8"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "6fABwONLawdFjkDpLx41j8"
+                    },
+                    "name": {
+                        "S": "Pink Friday ... Roman Reloaded (Deluxe)"
+                    },
+                    "track_count": {
+                        "N": "3"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0hCNtLu0JehylgoiP8L4Gh"
+                            },
+                            "name": {
+                                "S": "Nicki Minaj"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/32ed483d3971209e7c418edcda4e7d49bb31e9ac"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#6fABwONLawdFjkDpLx41j8"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#0hCNtLu0JehylgoiP8L4Gh"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#6fABwONLawdFjkDpLx41j8"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#4AGQTp6rk7v8fPbFu739l7"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "4AGQTp6rk7v8fPbFu739l7"
+                    },
+                    "name": {
+                        "S": "Fortune (Expanded Edition)"
+                    },
+                    "track_count": {
+                        "N": "4"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7bXgB6jMjp9ATFy66eO08Z"
+                            },
+                            "name": {
+                                "S": "Chris Brown"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/379bef8d54d040acaed110d35936f7cf6fa3a4dd"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#4AGQTp6rk7v8fPbFu739l7"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#7bXgB6jMjp9ATFy66eO08Z"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#4AGQTp6rk7v8fPbFu739l7"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2g1EakEaW7fPTZC6vBmBCn"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "2g1EakEaW7fPTZC6vBmBCn"
+                    },
+                    "name": {
+                        "S": "Talk That Talk"
+                    },
+                    "track_count": {
+                        "N": "1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5pKCCKE2ajJHZ9KAiaK11H"
+                            },
+                            "name": {
+                                "S": "Rihanna"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/6bcdfc45cdbecc87168bb72e0ddc92082e89e1f6"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#2g1EakEaW7fPTZC6vBmBCn"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#5pKCCKE2ajJHZ9KAiaK11H"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#2g1EakEaW7fPTZC6vBmBCn"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3BmcYMh0KYsimWL6p2gPa9"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "3BmcYMh0KYsimWL6p2gPa9"
+                    },
+                    "name": {
+                        "S": "My World 2.0"
+                    },
+                    "track_count": {
+                        "N": "4"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1uNFoZAHBGtllmzznpCI3s"
+                            },
+                            "name": {
+                                "S": "Justin Bieber"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/4a334e8018ca1df508e1ba39e6bf84af656f3476"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#3BmcYMh0KYsimWL6p2gPa9"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#1uNFoZAHBGtllmzznpCI3s"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#3BmcYMh0KYsimWL6p2gPa9"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#65CquQgUA42ecr7n6bGtOI"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "65CquQgUA42ecr7n6bGtOI"
+                    },
+                    "name": {
+                        "S": "Careless World: Rise Of The Last King"
+                    },
+                    "track_count": {
+                        "N": "1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5LHRHt1k9lMyONurDHEdrp"
+                            },
+                            "name": {
+                                "S": "Tyga"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/43834da83d98b114845a735e96c3d068ed2c945e"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#65CquQgUA42ecr7n6bGtOI"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#5LHRHt1k9lMyONurDHEdrp"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#65CquQgUA42ecr7n6bGtOI"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3JSWZWeTHF4HDGt5Eozdy7"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "3JSWZWeTHF4HDGt5Eozdy7"
+                    },
+                    "name": {
+                        "S": "Good Girl Gone Bad: Reloaded"
+                    },
+                    "track_count": {
+                        "N": "6"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5pKCCKE2ajJHZ9KAiaK11H"
+                            },
+                            "name": {
+                                "S": "Rihanna"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/3efc0f573fec8acaefe7b5cdf7004d03939b0c34"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#3JSWZWeTHF4HDGt5Eozdy7"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#5pKCCKE2ajJHZ9KAiaK11H"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#3JSWZWeTHF4HDGt5Eozdy7"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5jem47f4IRH6UaxNAWO6vD"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "5jem47f4IRH6UaxNAWO6vD"
+                    },
+                    "name": {
+                        "S": "Pink Friday"
+                    },
+                    "track_count": {
+                        "N": "5"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0hCNtLu0JehylgoiP8L4Gh"
+                            },
+                            "name": {
+                                "S": "Nicki Minaj"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/6c169d733a8ce9bd283998b204d4f1903c9054dd"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#5jem47f4IRH6UaxNAWO6vD"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#0hCNtLu0JehylgoiP8L4Gh"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#5jem47f4IRH6UaxNAWO6vD"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6df0qvkMXoyHGt9J8cujZb"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "6df0qvkMXoyHGt9J8cujZb"
+                    },
+                    "name": {
+                        "S": "F.A.M.E. (Expanded Edition)"
+                    },
+                    "track_count": {
+                        "N": "3"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7bXgB6jMjp9ATFy66eO08Z"
+                            },
+                            "name": {
+                                "S": "Chris Brown"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/96e0248b3d8b70f9a039b1e1c7c28a54ee13ce20"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#6df0qvkMXoyHGt9J8cujZb"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#7bXgB6jMjp9ATFy66eO08Z"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#6df0qvkMXoyHGt9J8cujZb"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7uGmyYwDFJbSc1xs4hkEs2"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "7uGmyYwDFJbSc1xs4hkEs2"
+                    },
+                    "name": {
+                        "S": "Rated R"
+                    },
+                    "track_count": {
+                        "N": "3"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5pKCCKE2ajJHZ9KAiaK11H"
+                            },
+                            "name": {
+                                "S": "Rihanna"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/94619025293f2dced057e880f0ff4abbea3d8a90"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#7uGmyYwDFJbSc1xs4hkEs2"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#5pKCCKE2ajJHZ9KAiaK11H"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#7uGmyYwDFJbSc1xs4hkEs2"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#20aDO05QIgZMY7BcKKI44D"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "20aDO05QIgZMY7BcKKI44D"
+                    },
+                    "name": {
+                        "S": "Graffiti (Expanded Edition)"
+                    },
+                    "track_count": {
+                        "N": "1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7bXgB6jMjp9ATFy66eO08Z"
+                            },
+                            "name": {
+                                "S": "Chris Brown"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/a8330b40cdae9457971dbeeb5f11f6c92b7a0991"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#20aDO05QIgZMY7BcKKI44D"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#7bXgB6jMjp9ATFy66eO08Z"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#20aDO05QIgZMY7BcKKI44D"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3WFTGIO6E3Xh4paEOBY9OU"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "3WFTGIO6E3Xh4paEOBY9OU"
+                    },
+                    "name": {
+                        "S": "808s & Heartbreak"
+                    },
+                    "track_count": {
+                        "N": "4"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5K4W6rqBFWDnAN6FQUkS6x"
+                            },
+                            "name": {
+                                "S": "Kanye West"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/353e99e5ff167272c245412b52d84bc36185b58d"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#3WFTGIO6E3Xh4paEOBY9OU"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#5K4W6rqBFWDnAN6FQUkS6x"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#3WFTGIO6E3Xh4paEOBY9OU"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6p5pW2WwgVECsOhrXPAyhI"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "6p5pW2WwgVECsOhrXPAyhI"
+                    },
+                    "name": {
+                        "S": "Exclusive (Expanded Edition)"
+                    },
+                    "track_count": {
+                        "N": "4"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7bXgB6jMjp9ATFy66eO08Z"
+                            },
+                            "name": {
+                                "S": "Chris Brown"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/daf84e642d88d9e05f6e443d24f668794f42e7f8"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#6p5pW2WwgVECsOhrXPAyhI"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#7bXgB6jMjp9ATFy66eO08Z"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#6p5pW2WwgVECsOhrXPAyhI"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#0GarKYA3ebL7sQx7IP2SSt"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "0GarKYA3ebL7sQx7IP2SSt"
+                    },
+                    "name": {
+                        "S": "El Cartel: The Big Boss"
+                    },
+                    "track_count": {
+                        "N": "1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "4VMYDCV2IEDYJArk749S6m"
+                            },
+                            "name": {
+                                "S": "Daddy Yankee"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/0719fa77d27ac3c532e32dbd3e8e4eb1d3549259"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#0GarKYA3ebL7sQx7IP2SSt"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#4VMYDCV2IEDYJArk749S6m"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#0GarKYA3ebL7sQx7IP2SSt"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2JdjS6jjOml7nt7Yjo0nnh"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "2JdjS6jjOml7nt7Yjo0nnh"
+                    },
+                    "name": {
+                        "S": "A Girl Like Me"
+                    },
+                    "track_count": {
+                        "N": "2"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5pKCCKE2ajJHZ9KAiaK11H"
+                            },
+                            "name": {
+                                "S": "Rihanna"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/9aef74dc2b4681ce8f1322a974c7ac519313c239"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#2JdjS6jjOml7nt7Yjo0nnh"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#5pKCCKE2ajJHZ9KAiaK11H"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#2JdjS6jjOml7nt7Yjo0nnh"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#4FyGpObwABjn0o8Tdp7AZz"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "4FyGpObwABjn0o8Tdp7AZz"
+                    },
+                    "name": {
+                        "S": "Music Of The Sun"
+                    },
+                    "track_count": {
+                        "N": "2"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5pKCCKE2ajJHZ9KAiaK11H"
+                            },
+                            "name": {
+                                "S": "Rihanna"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/583664289dc2fdfef9dc4e01038e5fba362e35be"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#4FyGpObwABjn0o8Tdp7AZz"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#5pKCCKE2ajJHZ9KAiaK11H"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#4FyGpObwABjn0o8Tdp7AZz"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5i2HhIrYyMNQvmsBk9h8Im"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "5i2HhIrYyMNQvmsBk9h8Im"
+                    },
+                    "name": {
+                        "S": "Barrio Fino (Bonus Track Version)"
+                    },
+                    "track_count": {
+                        "N": "2"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "4VMYDCV2IEDYJArk749S6m"
+                            },
+                            "name": {
+                                "S": "Daddy Yankee"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/f0db84463098670417dea29c6423ce3ed5481ff0"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#5i2HhIrYyMNQvmsBk9h8Im"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#4VMYDCV2IEDYJArk749S6m"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#5i2HhIrYyMNQvmsBk9h8Im"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7kiDOzNkoKCEgqGZrpPrej"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "7kiDOzNkoKCEgqGZrpPrej"
+                    },
+                    "name": {
+                        "S": "The Miracle (Deluxe Edition 2011 Remaster)"
+                    },
+                    "track_count": {
+                        "N": "1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1dfeR4HaWDbWqFHLkxsg1d"
+                            },
+                            "name": {
+                                "S": "Queen"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/540210e0d81a813056e1de5789a82d66dc867fe7"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#7kiDOzNkoKCEgqGZrpPrej"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#1dfeR4HaWDbWqFHLkxsg1d"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#7kiDOzNkoKCEgqGZrpPrej"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#0pEfDPZko6TnNOgrZMe5nn"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "0pEfDPZko6TnNOgrZMe5nn"
+                    },
+                    "name": {
+                        "S": "A Kind Of Magic (2011 Remaster)"
+                    },
+                    "track_count": {
+                        "N": "2"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1dfeR4HaWDbWqFHLkxsg1d"
+                            },
+                            "name": {
+                                "S": "Queen"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/e74feae5ff780765a0709c1256bd6d07a8881c3b"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#0pEfDPZko6TnNOgrZMe5nn"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#1dfeR4HaWDbWqFHLkxsg1d"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#0pEfDPZko6TnNOgrZMe5nn"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5RS9xkMuDmeVISqGDBmnSa"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "5RS9xkMuDmeVISqGDBmnSa"
+                    },
+                    "name": {
+                        "S": "The Works (2011 Remaster)"
+                    },
+                    "track_count": {
+                        "N": "2"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1dfeR4HaWDbWqFHLkxsg1d"
+                            },
+                            "name": {
+                                "S": "Queen"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/1252203a0a5d80727dcdc3f067397c09718deeb5"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#5RS9xkMuDmeVISqGDBmnSa"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#1dfeR4HaWDbWqFHLkxsg1d"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#5RS9xkMuDmeVISqGDBmnSa"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2yuTRGIackbcReLUXOYBqU"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "2yuTRGIackbcReLUXOYBqU"
+                    },
+                    "name": {
+                        "S": "Jazz (2011 Remaster)"
+                    },
+                    "track_count": {
+                        "N": "1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1dfeR4HaWDbWqFHLkxsg1d"
+                            },
+                            "name": {
+                                "S": "Queen"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/1c53c16125177f36662ae1a4945e04c3835d789b"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#2yuTRGIackbcReLUXOYBqU"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#1dfeR4HaWDbWqFHLkxsg1d"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#2yuTRGIackbcReLUXOYBqU"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7tB40pGzj6Tg0HePj2jWZt"
+                    },
+                    "SK": {
+                        "S": "ALBUM"
+                    },
+                    "id": {
+                        "S": "7tB40pGzj6Tg0HePj2jWZt"
+                    },
+                    "name": {
+                        "S": "News Of The World (2011 Remaster)"
+                    },
+                    "track_count": {
+                        "N": "1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1dfeR4HaWDbWqFHLkxsg1d"
+                            },
+                            "name": {
+                                "S": "Queen"
+                            }
+                        }
+                    },
+                    "cover_img": {
+                        "S": "https:\/\/i.scdn.co\/image\/21909c383158fa96cdaaa13df21c046025004a6b"
+                    },
+                    "GSI2_PK": {
+                        "S": "ALBUM"
+                    },
+                    "GSI2_SK": {
+                        "S": "ALBUM#7tB40pGzj6Tg0HePj2jWZt"
+                    },
+                    "GSI3_PK": {
+                        "S": "ARTIST#1dfeR4HaWDbWqFHLkxsg1d"
+                    },
+                    "GSI3_SK": {
+                        "S": "ALBUM#7tB40pGzj6Tg0HePj2jWZt"
+                    }
+                }
+            }
+        }
+    ]
+}

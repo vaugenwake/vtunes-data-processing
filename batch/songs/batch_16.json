@@ -1,0 +1,1229 @@
+{
+    "MusicPlatform": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3JSWZWeTHF4HDGt5Eozdy7"
+                    },
+                    "SK": {
+                        "S": "SONG#49FYlytm3dAAraYgpoJZux#00001"
+                    },
+                    "id": {
+                        "S": "49FYlytm3dAAraYgpoJZux"
+                    },
+                    "name": {
+                        "S": "Umbrella"
+                    },
+                    "album_id": {
+                        "S": "3JSWZWeTHF4HDGt5Eozdy7"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5pKCCKE2ajJHZ9KAiaK11H"
+                            },
+                            "name": {
+                                "S": "Rihanna"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Collaboration"
+                    },
+                    "track_num": {
+                        "N": "1"
+                    },
+                    "duration": {
+                        "N": "275987"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3JSWZWeTHF4HDGt5Eozdy7"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00001"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3JSWZWeTHF4HDGt5Eozdy7"
+                    },
+                    "SK": {
+                        "S": "SONG#4Tn2llBm1g0UlWctmgPL8Z#00005"
+                    },
+                    "id": {
+                        "S": "4Tn2llBm1g0UlWctmgPL8Z"
+                    },
+                    "name": {
+                        "S": "Shut Up And Drive"
+                    },
+                    "album_id": {
+                        "S": "3JSWZWeTHF4HDGt5Eozdy7"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5pKCCKE2ajJHZ9KAiaK11H"
+                            },
+                            "name": {
+                                "S": "Rihanna"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "212280"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3JSWZWeTHF4HDGt5Eozdy7"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3JSWZWeTHF4HDGt5Eozdy7"
+                    },
+                    "SK": {
+                        "S": "SONG#0ByMNEPAPpOR5H69DVrTNy#00003"
+                    },
+                    "id": {
+                        "S": "0ByMNEPAPpOR5H69DVrTNy"
+                    },
+                    "name": {
+                        "S": "Don't Stop The Music"
+                    },
+                    "album_id": {
+                        "S": "3JSWZWeTHF4HDGt5Eozdy7"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5pKCCKE2ajJHZ9KAiaK11H"
+                            },
+                            "name": {
+                                "S": "Rihanna"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "267080"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3JSWZWeTHF4HDGt5Eozdy7"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3JSWZWeTHF4HDGt5Eozdy7"
+                    },
+                    "SK": {
+                        "S": "SONG#3goSVuTt3fDYDP6kRnFwuL#00014"
+                    },
+                    "id": {
+                        "S": "3goSVuTt3fDYDP6kRnFwuL"
+                    },
+                    "name": {
+                        "S": "Take A Bow"
+                    },
+                    "album_id": {
+                        "S": "3JSWZWeTHF4HDGt5Eozdy7"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5pKCCKE2ajJHZ9KAiaK11H"
+                            },
+                            "name": {
+                                "S": "Rihanna"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "14"
+                    },
+                    "duration": {
+                        "N": "229413"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3JSWZWeTHF4HDGt5Eozdy7"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00014"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3JSWZWeTHF4HDGt5Eozdy7"
+                    },
+                    "SK": {
+                        "S": "SONG#5X3ahLXhOw16BR09GjYPUT#00010"
+                    },
+                    "id": {
+                        "S": "5X3ahLXhOw16BR09GjYPUT"
+                    },
+                    "name": {
+                        "S": "Rehab"
+                    },
+                    "album_id": {
+                        "S": "3JSWZWeTHF4HDGt5Eozdy7"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5pKCCKE2ajJHZ9KAiaK11H"
+                            },
+                            "name": {
+                                "S": "Rihanna"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "10"
+                    },
+                    "duration": {
+                        "N": "294720"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3JSWZWeTHF4HDGt5Eozdy7"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00010"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3JSWZWeTHF4HDGt5Eozdy7"
+                    },
+                    "SK": {
+                        "S": "SONG#2VOomzT6VavJOGBeySqaMc#00013"
+                    },
+                    "id": {
+                        "S": "2VOomzT6VavJOGBeySqaMc"
+                    },
+                    "name": {
+                        "S": "Disturbia"
+                    },
+                    "album_id": {
+                        "S": "3JSWZWeTHF4HDGt5Eozdy7"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5pKCCKE2ajJHZ9KAiaK11H"
+                            },
+                            "name": {
+                                "S": "Rihanna"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "13"
+                    },
+                    "duration": {
+                        "N": "238627"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3JSWZWeTHF4HDGt5Eozdy7"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00013"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5jem47f4IRH6UaxNAWO6vD"
+                    },
+                    "SK": {
+                        "S": "SONG#6JMu5Aou3halbknIpdWrLt#00002"
+                    },
+                    "id": {
+                        "S": "6JMu5Aou3halbknIpdWrLt"
+                    },
+                    "name": {
+                        "S": "Roman's Revenge"
+                    },
+                    "album_id": {
+                        "S": "5jem47f4IRH6UaxNAWO6vD"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0hCNtLu0JehylgoiP8L4Gh"
+                            },
+                            "name": {
+                                "S": "Nicki Minaj"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Collaboration"
+                    },
+                    "track_num": {
+                        "N": "2"
+                    },
+                    "duration": {
+                        "N": "276173"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#5jem47f4IRH6UaxNAWO6vD"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00002"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5jem47f4IRH6UaxNAWO6vD"
+                    },
+                    "SK": {
+                        "S": "SONG#1RFQ0GKqmnsg2EB3kH6J5o#00012"
+                    },
+                    "id": {
+                        "S": "1RFQ0GKqmnsg2EB3kH6J5o"
+                    },
+                    "name": {
+                        "S": "Your Love"
+                    },
+                    "album_id": {
+                        "S": "5jem47f4IRH6UaxNAWO6vD"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0hCNtLu0JehylgoiP8L4Gh"
+                            },
+                            "name": {
+                                "S": "Nicki Minaj"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "12"
+                    },
+                    "duration": {
+                        "N": "245253"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#5jem47f4IRH6UaxNAWO6vD"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00012"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5jem47f4IRH6UaxNAWO6vD"
+                    },
+                    "SK": {
+                        "S": "SONG#7CpxI6HUamO1sfG7Q64crM#00004"
+                    },
+                    "id": {
+                        "S": "7CpxI6HUamO1sfG7Q64crM"
+                    },
+                    "name": {
+                        "S": "Right Thru Me"
+                    },
+                    "album_id": {
+                        "S": "5jem47f4IRH6UaxNAWO6vD"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0hCNtLu0JehylgoiP8L4Gh"
+                            },
+                            "name": {
+                                "S": "Nicki Minaj"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "4"
+                    },
+                    "duration": {
+                        "N": "235773"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#5jem47f4IRH6UaxNAWO6vD"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00004"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5jem47f4IRH6UaxNAWO6vD"
+                    },
+                    "SK": {
+                        "S": "SONG#3aVHmjnWtDJvPEDSP4hzsa#00003"
+                    },
+                    "id": {
+                        "S": "3aVHmjnWtDJvPEDSP4hzsa"
+                    },
+                    "name": {
+                        "S": "Did It On\u2019em"
+                    },
+                    "album_id": {
+                        "S": "5jem47f4IRH6UaxNAWO6vD"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0hCNtLu0JehylgoiP8L4Gh"
+                            },
+                            "name": {
+                                "S": "Nicki Minaj"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "212347"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#5jem47f4IRH6UaxNAWO6vD"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#5jem47f4IRH6UaxNAWO6vD"
+                    },
+                    "SK": {
+                        "S": "SONG#2jSwKQBouf0brIcxGfA9CZ#00014"
+                    },
+                    "id": {
+                        "S": "2jSwKQBouf0brIcxGfA9CZ"
+                    },
+                    "name": {
+                        "S": "Super Bass"
+                    },
+                    "album_id": {
+                        "S": "5jem47f4IRH6UaxNAWO6vD"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "0hCNtLu0JehylgoiP8L4Gh"
+                            },
+                            "name": {
+                                "S": "Nicki Minaj"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "14"
+                    },
+                    "duration": {
+                        "N": "200013"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#5jem47f4IRH6UaxNAWO6vD"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00014"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6df0qvkMXoyHGt9J8cujZb"
+                    },
+                    "SK": {
+                        "S": "SONG#6wN4nT2qy3MQc098yL3Eu9#00001"
+                    },
+                    "id": {
+                        "S": "6wN4nT2qy3MQc098yL3Eu9"
+                    },
+                    "name": {
+                        "S": "Deuces (feat. Tyga & Kevin McCall)"
+                    },
+                    "album_id": {
+                        "S": "6df0qvkMXoyHGt9J8cujZb"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7bXgB6jMjp9ATFy66eO08Z"
+                            },
+                            "name": {
+                                "S": "Chris Brown"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Collaboration"
+                    },
+                    "track_num": {
+                        "N": "1"
+                    },
+                    "duration": {
+                        "N": "276560"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6df0qvkMXoyHGt9J8cujZb"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00001"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6df0qvkMXoyHGt9J8cujZb"
+                    },
+                    "SK": {
+                        "S": "SONG#2QtxlzvSBONjs1bDC34ixs#00007"
+                    },
+                    "id": {
+                        "S": "2QtxlzvSBONjs1bDC34ixs"
+                    },
+                    "name": {
+                        "S": "Yeah 3x"
+                    },
+                    "album_id": {
+                        "S": "6df0qvkMXoyHGt9J8cujZb"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7bXgB6jMjp9ATFy66eO08Z"
+                            },
+                            "name": {
+                                "S": "Chris Brown"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "7"
+                    },
+                    "duration": {
+                        "N": "241667"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6df0qvkMXoyHGt9J8cujZb"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00007"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6df0qvkMXoyHGt9J8cujZb"
+                    },
+                    "SK": {
+                        "S": "SONG#3dhvQUA0NyrAea4vQ7X6Gn#00005"
+                    },
+                    "id": {
+                        "S": "3dhvQUA0NyrAea4vQ7X6Gn"
+                    },
+                    "name": {
+                        "S": "She Ain't You"
+                    },
+                    "album_id": {
+                        "S": "6df0qvkMXoyHGt9J8cujZb"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7bXgB6jMjp9ATFy66eO08Z"
+                            },
+                            "name": {
+                                "S": "Chris Brown"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "248107"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6df0qvkMXoyHGt9J8cujZb"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7uGmyYwDFJbSc1xs4hkEs2"
+                    },
+                    "SK": {
+                        "S": "SONG#5rXDTihGQ3TkYE3pmraAmH#00005"
+                    },
+                    "id": {
+                        "S": "5rXDTihGQ3TkYE3pmraAmH"
+                    },
+                    "name": {
+                        "S": "ROCKSTAR 101"
+                    },
+                    "album_id": {
+                        "S": "7uGmyYwDFJbSc1xs4hkEs2"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5pKCCKE2ajJHZ9KAiaK11H"
+                            },
+                            "name": {
+                                "S": "Rihanna"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Collaboration"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "238893"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#7uGmyYwDFJbSc1xs4hkEs2"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7uGmyYwDFJbSc1xs4hkEs2"
+                    },
+                    "SK": {
+                        "S": "SONG#3rMsX63C0IZVnOT5LGYoTH#00006"
+                    },
+                    "id": {
+                        "S": "3rMsX63C0IZVnOT5LGYoTH"
+                    },
+                    "name": {
+                        "S": "Russian Roulette"
+                    },
+                    "album_id": {
+                        "S": "7uGmyYwDFJbSc1xs4hkEs2"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5pKCCKE2ajJHZ9KAiaK11H"
+                            },
+                            "name": {
+                                "S": "Rihanna"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "6"
+                    },
+                    "duration": {
+                        "N": "227533"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#7uGmyYwDFJbSc1xs4hkEs2"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00006"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7uGmyYwDFJbSc1xs4hkEs2"
+                    },
+                    "SK": {
+                        "S": "SONG#60jzFy6Nn4M0iD1d94oteF#00008"
+                    },
+                    "id": {
+                        "S": "60jzFy6Nn4M0iD1d94oteF"
+                    },
+                    "name": {
+                        "S": "Rude Boy"
+                    },
+                    "album_id": {
+                        "S": "7uGmyYwDFJbSc1xs4hkEs2"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5pKCCKE2ajJHZ9KAiaK11H"
+                            },
+                            "name": {
+                                "S": "Rihanna"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "8"
+                    },
+                    "duration": {
+                        "N": "222920"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#7uGmyYwDFJbSc1xs4hkEs2"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00008"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#20aDO05QIgZMY7BcKKI44D"
+                    },
+                    "SK": {
+                        "S": "SONG#3SK0wdiECK6UltzbYm2rkd#00003"
+                    },
+                    "id": {
+                        "S": "3SK0wdiECK6UltzbYm2rkd"
+                    },
+                    "name": {
+                        "S": "Crawl"
+                    },
+                    "album_id": {
+                        "S": "20aDO05QIgZMY7BcKKI44D"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7bXgB6jMjp9ATFy66eO08Z"
+                            },
+                            "name": {
+                                "S": "Chris Brown"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "236253"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#20aDO05QIgZMY7BcKKI44D"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3WFTGIO6E3Xh4paEOBY9OU"
+                    },
+                    "SK": {
+                        "S": "SONG#5zuoz1NBnpoHK6g5sbEH8F#00010"
+                    },
+                    "id": {
+                        "S": "5zuoz1NBnpoHK6g5sbEH8F"
+                    },
+                    "name": {
+                        "S": "See You In My Nightmares"
+                    },
+                    "album_id": {
+                        "S": "3WFTGIO6E3Xh4paEOBY9OU"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5K4W6rqBFWDnAN6FQUkS6x"
+                            },
+                            "name": {
+                                "S": "Kanye West"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Collaboration"
+                    },
+                    "track_num": {
+                        "N": "10"
+                    },
+                    "duration": {
+                        "N": "258120"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3WFTGIO6E3Xh4paEOBY9OU"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00010"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3WFTGIO6E3Xh4paEOBY9OU"
+                    },
+                    "SK": {
+                        "S": "SONG#0m3Ze0cy8qBHSsV2exAfCw#00004"
+                    },
+                    "id": {
+                        "S": "0m3Ze0cy8qBHSsV2exAfCw"
+                    },
+                    "name": {
+                        "S": "Amazing"
+                    },
+                    "album_id": {
+                        "S": "3WFTGIO6E3Xh4paEOBY9OU"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5K4W6rqBFWDnAN6FQUkS6x"
+                            },
+                            "name": {
+                                "S": "Kanye West"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Collaboration"
+                    },
+                    "track_num": {
+                        "N": "4"
+                    },
+                    "duration": {
+                        "N": "238333"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3WFTGIO6E3Xh4paEOBY9OU"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00004"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3WFTGIO6E3Xh4paEOBY9OU"
+                    },
+                    "SK": {
+                        "S": "SONG#1kxeWHF9PrCVZHvVskv8lg#00005"
+                    },
+                    "id": {
+                        "S": "1kxeWHF9PrCVZHvVskv8lg"
+                    },
+                    "name": {
+                        "S": "Love Lockdown"
+                    },
+                    "album_id": {
+                        "S": "3WFTGIO6E3Xh4paEOBY9OU"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5K4W6rqBFWDnAN6FQUkS6x"
+                            },
+                            "name": {
+                                "S": "Kanye West"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "270307"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3WFTGIO6E3Xh4paEOBY9OU"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3WFTGIO6E3Xh4paEOBY9OU"
+                    },
+                    "SK": {
+                        "S": "SONG#4EWCNWgDS8707fNSZ1oaA5#00003"
+                    },
+                    "id": {
+                        "S": "4EWCNWgDS8707fNSZ1oaA5"
+                    },
+                    "name": {
+                        "S": "Heartless"
+                    },
+                    "album_id": {
+                        "S": "3WFTGIO6E3Xh4paEOBY9OU"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5K4W6rqBFWDnAN6FQUkS6x"
+                            },
+                            "name": {
+                                "S": "Kanye West"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "211000"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3WFTGIO6E3Xh4paEOBY9OU"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6p5pW2WwgVECsOhrXPAyhI"
+                    },
+                    "SK": {
+                        "S": "SONG#3wKKkGVn7cVSfgPeYYIiXG#00002"
+                    },
+                    "id": {
+                        "S": "3wKKkGVn7cVSfgPeYYIiXG"
+                    },
+                    "name": {
+                        "S": "Kiss Kiss (feat. T-Pain)"
+                    },
+                    "album_id": {
+                        "S": "6p5pW2WwgVECsOhrXPAyhI"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7bXgB6jMjp9ATFy66eO08Z"
+                            },
+                            "name": {
+                                "S": "Chris Brown"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Collaboration"
+                    },
+                    "track_num": {
+                        "N": "2"
+                    },
+                    "duration": {
+                        "N": "250667"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6p5pW2WwgVECsOhrXPAyhI"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00002"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6p5pW2WwgVECsOhrXPAyhI"
+                    },
+                    "SK": {
+                        "S": "SONG#5Zu4UO0QlderRYNPFkbJeO#00009"
+                    },
+                    "id": {
+                        "S": "5Zu4UO0QlderRYNPFkbJeO"
+                    },
+                    "name": {
+                        "S": "Wall To Wall"
+                    },
+                    "album_id": {
+                        "S": "6p5pW2WwgVECsOhrXPAyhI"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7bXgB6jMjp9ATFy66eO08Z"
+                            },
+                            "name": {
+                                "S": "Chris Brown"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "9"
+                    },
+                    "duration": {
+                        "N": "223187"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6p5pW2WwgVECsOhrXPAyhI"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00009"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6p5pW2WwgVECsOhrXPAyhI"
+                    },
+                    "SK": {
+                        "S": "SONG#5Lgcn7u07bHuqbOtXkN62u#00004"
+                    },
+                    "id": {
+                        "S": "5Lgcn7u07bHuqbOtXkN62u"
+                    },
+                    "name": {
+                        "S": "With You"
+                    },
+                    "album_id": {
+                        "S": "6p5pW2WwgVECsOhrXPAyhI"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7bXgB6jMjp9ATFy66eO08Z"
+                            },
+                            "name": {
+                                "S": "Chris Brown"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "4"
+                    },
+                    "duration": {
+                        "N": "252120"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6p5pW2WwgVECsOhrXPAyhI"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00004"
+                    }
+                }
+            }
+        }
+    ]
+}

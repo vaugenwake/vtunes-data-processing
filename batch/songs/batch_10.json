@@ -1,0 +1,1229 @@
+{
+    "MusicPlatform": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "SK": {
+                        "S": "SONG#6gcA4zzG6FnMEgPSDKbAMs#00014"
+                    },
+                    "id": {
+                        "S": "6gcA4zzG6FnMEgPSDKbAMs"
+                    },
+                    "name": {
+                        "S": "Been You"
+                    },
+                    "album_id": {
+                        "S": "6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1uNFoZAHBGtllmzznpCI3s"
+                            },
+                            "name": {
+                                "S": "Justin Bieber"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "14"
+                    },
+                    "duration": {
+                        "N": "199227"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00014"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "SK": {
+                        "S": "SONG#7sK3nu6yk8urQ44ouEB7Au#00012"
+                    },
+                    "id": {
+                        "S": "7sK3nu6yk8urQ44ouEB7Au"
+                    },
+                    "name": {
+                        "S": "Children"
+                    },
+                    "album_id": {
+                        "S": "6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1uNFoZAHBGtllmzznpCI3s"
+                            },
+                            "name": {
+                                "S": "Justin Bieber"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "12"
+                    },
+                    "duration": {
+                        "N": "223333"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00012"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "SK": {
+                        "S": "SONG#4yWCzA44dQyp0SoeM81bUb#00010"
+                    },
+                    "id": {
+                        "S": "4yWCzA44dQyp0SoeM81bUb"
+                    },
+                    "name": {
+                        "S": "Life Is Worth Living"
+                    },
+                    "album_id": {
+                        "S": "6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1uNFoZAHBGtllmzznpCI3s"
+                            },
+                            "name": {
+                                "S": "Justin Bieber"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "10"
+                    },
+                    "duration": {
+                        "N": "234787"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00010"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "SK": {
+                        "S": "SONG#2SnNaoNhMjC1WRMTWD8qTX#00001"
+                    },
+                    "id": {
+                        "S": "2SnNaoNhMjC1WRMTWD8qTX"
+                    },
+                    "name": {
+                        "S": "Mark My Words"
+                    },
+                    "album_id": {
+                        "S": "6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1uNFoZAHBGtllmzznpCI3s"
+                            },
+                            "name": {
+                                "S": "Justin Bieber"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "1"
+                    },
+                    "duration": {
+                        "N": "134347"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00001"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "SK": {
+                        "S": "SONG#2IjyFRCRn8x1bEquOM3vxg#00013"
+                    },
+                    "id": {
+                        "S": "2IjyFRCRn8x1bEquOM3vxg"
+                    },
+                    "name": {
+                        "S": "Purpose"
+                    },
+                    "album_id": {
+                        "S": "6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1uNFoZAHBGtllmzznpCI3s"
+                            },
+                            "name": {
+                                "S": "Justin Bieber"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "13"
+                    },
+                    "duration": {
+                        "N": "210160"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00013"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "SK": {
+                        "S": "SONG#0SNIAtRCPVVLoGEPcuHSIc#00002"
+                    },
+                    "id": {
+                        "S": "0SNIAtRCPVVLoGEPcuHSIc"
+                    },
+                    "name": {
+                        "S": "I'll Show You"
+                    },
+                    "album_id": {
+                        "S": "6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1uNFoZAHBGtllmzznpCI3s"
+                            },
+                            "name": {
+                                "S": "Justin Bieber"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "2"
+                    },
+                    "duration": {
+                        "N": "199947"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00002"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "SK": {
+                        "S": "SONG#4B0JvthVoAAuygILe3n4Bs#00003"
+                    },
+                    "id": {
+                        "S": "4B0JvthVoAAuygILe3n4Bs"
+                    },
+                    "name": {
+                        "S": "What Do You Mean?"
+                    },
+                    "album_id": {
+                        "S": "6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1uNFoZAHBGtllmzznpCI3s"
+                            },
+                            "name": {
+                                "S": "Justin Bieber"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "205680"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "SK": {
+                        "S": "SONG#61uyGDPJ06MkxJtHgPmuyO#00006"
+                    },
+                    "id": {
+                        "S": "61uyGDPJ06MkxJtHgPmuyO"
+                    },
+                    "name": {
+                        "S": "Company"
+                    },
+                    "album_id": {
+                        "S": "6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1uNFoZAHBGtllmzznpCI3s"
+                            },
+                            "name": {
+                                "S": "Justin Bieber"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "6"
+                    },
+                    "duration": {
+                        "N": "208120"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00006"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "SK": {
+                        "S": "SONG#09CtPGIpYB4BrO8qb1RGsF#00004"
+                    },
+                    "id": {
+                        "S": "09CtPGIpYB4BrO8qb1RGsF"
+                    },
+                    "name": {
+                        "S": "Sorry"
+                    },
+                    "album_id": {
+                        "S": "6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1uNFoZAHBGtllmzznpCI3s"
+                            },
+                            "name": {
+                                "S": "Justin Bieber"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "4"
+                    },
+                    "duration": {
+                        "N": "200787"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00004"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "SK": {
+                        "S": "SONG#50kpGaPAhYJ3sGmk6vplg0#00005"
+                    },
+                    "id": {
+                        "S": "50kpGaPAhYJ3sGmk6vplg0"
+                    },
+                    "name": {
+                        "S": "Love Yourself"
+                    },
+                    "album_id": {
+                        "S": "6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "1uNFoZAHBGtllmzznpCI3s"
+                            },
+                            "name": {
+                                "S": "Justin Bieber"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "233720"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#6Fr2rQkZ383FcMqFyT7yPr"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#47BiFcV59TQi2s9SkBo2pb"
+                    },
+                    "SK": {
+                        "S": "SONG#66h8hB4In6t725WtAPL23J#00002"
+                    },
+                    "id": {
+                        "S": "66h8hB4In6t725WtAPL23J"
+                    },
+                    "name": {
+                        "S": "Talkin\u2019 2 Myself"
+                    },
+                    "album_id": {
+                        "S": "47BiFcV59TQi2s9SkBo2pb"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7dGJo4pcD2V6oG8kP0tJRR"
+                            },
+                            "name": {
+                                "S": "Eminem"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Collaboration"
+                    },
+                    "track_num": {
+                        "N": "2"
+                    },
+                    "duration": {
+                        "N": "300427"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#47BiFcV59TQi2s9SkBo2pb"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00002"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#47BiFcV59TQi2s9SkBo2pb"
+                    },
+                    "SK": {
+                        "S": "SONG#7kNlRLC9PEH8nXMVawssMx#00004"
+                    },
+                    "id": {
+                        "S": "7kNlRLC9PEH8nXMVawssMx"
+                    },
+                    "name": {
+                        "S": "Won't Back Down"
+                    },
+                    "album_id": {
+                        "S": "47BiFcV59TQi2s9SkBo2pb"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7dGJo4pcD2V6oG8kP0tJRR"
+                            },
+                            "name": {
+                                "S": "Eminem"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Collaboration"
+                    },
+                    "track_num": {
+                        "N": "4"
+                    },
+                    "duration": {
+                        "N": "265907"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#47BiFcV59TQi2s9SkBo2pb"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00004"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#47BiFcV59TQi2s9SkBo2pb"
+                    },
+                    "SK": {
+                        "S": "SONG#0dyWQoMOU9oERL6c9vxtRp#00012"
+                    },
+                    "id": {
+                        "S": "0dyWQoMOU9oERL6c9vxtRp"
+                    },
+                    "name": {
+                        "S": "25 To Life"
+                    },
+                    "album_id": {
+                        "S": "47BiFcV59TQi2s9SkBo2pb"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7dGJo4pcD2V6oG8kP0tJRR"
+                            },
+                            "name": {
+                                "S": "Eminem"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "12"
+                    },
+                    "duration": {
+                        "N": "241587"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#47BiFcV59TQi2s9SkBo2pb"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00012"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#47BiFcV59TQi2s9SkBo2pb"
+                    },
+                    "SK": {
+                        "S": "SONG#3Tj1luJyKPQt7WbrqpJ2Az#00001"
+                    },
+                    "id": {
+                        "S": "3Tj1luJyKPQt7WbrqpJ2Az"
+                    },
+                    "name": {
+                        "S": "Cold Wind Blows"
+                    },
+                    "album_id": {
+                        "S": "47BiFcV59TQi2s9SkBo2pb"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7dGJo4pcD2V6oG8kP0tJRR"
+                            },
+                            "name": {
+                                "S": "Eminem"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "1"
+                    },
+                    "duration": {
+                        "N": "303733"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#47BiFcV59TQi2s9SkBo2pb"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00001"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#47BiFcV59TQi2s9SkBo2pb"
+                    },
+                    "SK": {
+                        "S": "SONG#7Ie9W94M7OjPoZVV216Xus#00007"
+                    },
+                    "id": {
+                        "S": "7Ie9W94M7OjPoZVV216Xus"
+                    },
+                    "name": {
+                        "S": "Not Afraid"
+                    },
+                    "album_id": {
+                        "S": "47BiFcV59TQi2s9SkBo2pb"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7dGJo4pcD2V6oG8kP0tJRR"
+                            },
+                            "name": {
+                                "S": "Eminem"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "7"
+                    },
+                    "duration": {
+                        "N": "248133"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#47BiFcV59TQi2s9SkBo2pb"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00007"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "SK": {
+                        "S": "SONG#49fT6owWuknekShh9utsjv#00005"
+                    },
+                    "id": {
+                        "S": "49fT6owWuknekShh9utsjv"
+                    },
+                    "name": {
+                        "S": "Feedback"
+                    },
+                    "album_id": {
+                        "S": "7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5K4W6rqBFWDnAN6FQUkS6x"
+                            },
+                            "name": {
+                                "S": "Kanye West"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "147240"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "SK": {
+                        "S": "SONG#66Q3fAmSX5eHamgbKa9alP#00012"
+                    },
+                    "id": {
+                        "S": "66Q3fAmSX5eHamgbKa9alP"
+                    },
+                    "name": {
+                        "S": "Real Friends"
+                    },
+                    "album_id": {
+                        "S": "7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5K4W6rqBFWDnAN6FQUkS6x"
+                            },
+                            "name": {
+                                "S": "Kanye West"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "12"
+                    },
+                    "duration": {
+                        "N": "251573"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00012"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "SK": {
+                        "S": "SONG#30Zcjs7pgEkmJA1lEbGSWT#00011"
+                    },
+                    "id": {
+                        "S": "30Zcjs7pgEkmJA1lEbGSWT"
+                    },
+                    "name": {
+                        "S": "FML"
+                    },
+                    "album_id": {
+                        "S": "7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5K4W6rqBFWDnAN6FQUkS6x"
+                            },
+                            "name": {
+                                "S": "Kanye West"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "11"
+                    },
+                    "duration": {
+                        "N": "236120"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00011"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "SK": {
+                        "S": "SONG#1eQBEelI2NCy7AUTerX0KS#00001"
+                    },
+                    "id": {
+                        "S": "1eQBEelI2NCy7AUTerX0KS"
+                    },
+                    "name": {
+                        "S": "Ultralight Beam"
+                    },
+                    "album_id": {
+                        "S": "7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5K4W6rqBFWDnAN6FQUkS6x"
+                            },
+                            "name": {
+                                "S": "Kanye West"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "1"
+                    },
+                    "duration": {
+                        "N": "320680"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00001"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "SK": {
+                        "S": "SONG#3nAq2hCr1oWsIU54tS98pL#00010"
+                    },
+                    "id": {
+                        "S": "3nAq2hCr1oWsIU54tS98pL"
+                    },
+                    "name": {
+                        "S": "Waves"
+                    },
+                    "album_id": {
+                        "S": "7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5K4W6rqBFWDnAN6FQUkS6x"
+                            },
+                            "name": {
+                                "S": "Kanye West"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "10"
+                    },
+                    "duration": {
+                        "N": "181573"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00010"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "SK": {
+                        "S": "SONG#1Wsbr1d2BouNGk2q92mIj7#00003"
+                    },
+                    "id": {
+                        "S": "1Wsbr1d2BouNGk2q92mIj7"
+                    },
+                    "name": {
+                        "S": "Pt. 2"
+                    },
+                    "album_id": {
+                        "S": "7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5K4W6rqBFWDnAN6FQUkS6x"
+                            },
+                            "name": {
+                                "S": "Kanye West"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "130293"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "SK": {
+                        "S": "SONG#19a3JfW8BQwqHWUMbcqSx8#00004"
+                    },
+                    "id": {
+                        "S": "19a3JfW8BQwqHWUMbcqSx8"
+                    },
+                    "name": {
+                        "S": "Famous"
+                    },
+                    "album_id": {
+                        "S": "7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5K4W6rqBFWDnAN6FQUkS6x"
+                            },
+                            "name": {
+                                "S": "Kanye West"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "4"
+                    },
+                    "duration": {
+                        "N": "196040"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00004"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "SK": {
+                        "S": "SONG#4KW1lqgSr8TKrvBII0Brf8#00002"
+                    },
+                    "id": {
+                        "S": "4KW1lqgSr8TKrvBII0Brf8"
+                    },
+                    "name": {
+                        "S": "Father Stretch My Hands Pt. 1"
+                    },
+                    "album_id": {
+                        "S": "7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5K4W6rqBFWDnAN6FQUkS6x"
+                            },
+                            "name": {
+                                "S": "Kanye West"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "2"
+                    },
+                    "duration": {
+                        "N": "135920"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00002"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "SK": {
+                        "S": "SONG#3cCxoOgfi6hgt8MNteuiiD#00019"
+                    },
+                    "id": {
+                        "S": "3cCxoOgfi6hgt8MNteuiiD"
+                    },
+                    "name": {
+                        "S": "Fade"
+                    },
+                    "album_id": {
+                        "S": "7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "5K4W6rqBFWDnAN6FQUkS6x"
+                            },
+                            "name": {
+                                "S": "Kanye West"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "19"
+                    },
+                    "duration": {
+                        "N": "193748"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#7gsWAHLeT0w7es6FofOXk1"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00019"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#0U6ldwLBEMkwgfQRY4V6D2"
+                    },
+                    "SK": {
+                        "S": "SONG#6IvespQWGW4USXwexlVKDm#00004"
+                    },
+                    "id": {
+                        "S": "6IvespQWGW4USXwexlVKDm"
+                    },
+                    "name": {
+                        "S": "Untouchable"
+                    },
+                    "album_id": {
+                        "S": "0U6ldwLBEMkwgfQRY4V6D2"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "7dGJo4pcD2V6oG8kP0tJRR"
+                            },
+                            "name": {
+                                "S": "Eminem"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "4"
+                    },
+                    "duration": {
+                        "N": "370133"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#0U6ldwLBEMkwgfQRY4V6D2"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00004"
+                    }
+                }
+            }
+        }
+    ]
+}

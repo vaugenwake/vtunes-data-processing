@@ -1,0 +1,1229 @@
+{
+    "MusicPlatform": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "SK": {
+                        "S": "SONG#4OafepJy2teCjYJbvFE60J#00009"
+                    },
+                    "id": {
+                        "S": "4OafepJy2teCjYJbvFE60J"
+                    },
+                    "name": {
+                        "S": "breathin"
+                    },
+                    "album_id": {
+                        "S": "3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "66CXWjxzNUsdJxJ2JdwvnR"
+                            },
+                            "name": {
+                                "S": "Ariana Grande"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "9"
+                    },
+                    "duration": {
+                        "N": "198160"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3tx8gQqWbGwqIGZHqDNrGe"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00009"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#4KdtEKjY3Gi0mKiSdy96ML"
+                    },
+                    "SK": {
+                        "S": "SONG#1vBeIXlzbAieGoDqInav5j#00009"
+                    },
+                    "id": {
+                        "S": "1vBeIXlzbAieGoDqInav5j"
+                    },
+                    "name": {
+                        "S": "Money Bag"
+                    },
+                    "album_id": {
+                        "S": "4KdtEKjY3Gi0mKiSdy96ML"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "4kYSro6naA4h99UJvo89HB"
+                            },
+                            "name": {
+                                "S": "Cardi B"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "9"
+                    },
+                    "duration": {
+                        "N": "229005"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#4KdtEKjY3Gi0mKiSdy96ML"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00009"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#4KdtEKjY3Gi0mKiSdy96ML"
+                    },
+                    "SK": {
+                        "S": "SONG#7p2ewixAShLpjDZrnzZK7c#00001"
+                    },
+                    "id": {
+                        "S": "7p2ewixAShLpjDZrnzZK7c"
+                    },
+                    "name": {
+                        "S": "Get Up 10"
+                    },
+                    "album_id": {
+                        "S": "4KdtEKjY3Gi0mKiSdy96ML"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "4kYSro6naA4h99UJvo89HB"
+                            },
+                            "name": {
+                                "S": "Cardi B"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "1"
+                    },
+                    "duration": {
+                        "N": "231453"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#4KdtEKjY3Gi0mKiSdy96ML"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00001"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#4KdtEKjY3Gi0mKiSdy96ML"
+                    },
+                    "SK": {
+                        "S": "SONG#17Yq72h0p15OhCbZ5lJ5gd#00003"
+                    },
+                    "id": {
+                        "S": "17Yq72h0p15OhCbZ5lJ5gd"
+                    },
+                    "name": {
+                        "S": "Bickenhead"
+                    },
+                    "album_id": {
+                        "S": "4KdtEKjY3Gi0mKiSdy96ML"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "4kYSro6naA4h99UJvo89HB"
+                            },
+                            "name": {
+                                "S": "Cardi B"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "181624"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#4KdtEKjY3Gi0mKiSdy96ML"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#4KdtEKjY3Gi0mKiSdy96ML"
+                    },
+                    "SK": {
+                        "S": "SONG#74cVJfmK18rhWnscIpGXjt#00012"
+                    },
+                    "id": {
+                        "S": "74cVJfmK18rhWnscIpGXjt"
+                    },
+                    "name": {
+                        "S": "Thru Your Phone"
+                    },
+                    "album_id": {
+                        "S": "4KdtEKjY3Gi0mKiSdy96ML"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "4kYSro6naA4h99UJvo89HB"
+                            },
+                            "name": {
+                                "S": "Cardi B"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "12"
+                    },
+                    "duration": {
+                        "N": "188524"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#4KdtEKjY3Gi0mKiSdy96ML"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00012"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#4KdtEKjY3Gi0mKiSdy96ML"
+                    },
+                    "SK": {
+                        "S": "SONG#2Yl4OmDby9iitgNWZPwxkd#00005"
+                    },
+                    "id": {
+                        "S": "2Yl4OmDby9iitgNWZPwxkd"
+                    },
+                    "name": {
+                        "S": "Be Careful"
+                    },
+                    "album_id": {
+                        "S": "4KdtEKjY3Gi0mKiSdy96ML"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "4kYSro6naA4h99UJvo89HB"
+                            },
+                            "name": {
+                                "S": "Cardi B"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "210787"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#4KdtEKjY3Gi0mKiSdy96ML"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2Ti79nwTsont5ZHfdxIzAm"
+                    },
+                    "SK": {
+                        "S": "SONG#7CkbRn6S0itJqcqn88AtSV#00009"
+                    },
+                    "id": {
+                        "S": "7CkbRn6S0itJqcqn88AtSV"
+                    },
+                    "name": {
+                        "S": "going down!"
+                    },
+                    "album_id": {
+                        "S": "2Ti79nwTsont5ZHfdxIzAm"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "15UsOTVnJzReFVN1VCnxy4"
+                            },
+                            "name": {
+                                "S": "XXXTENTACION"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "9"
+                    },
+                    "duration": {
+                        "N": "115194"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#2Ti79nwTsont5ZHfdxIzAm"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00009"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2Ti79nwTsont5ZHfdxIzAm"
+                    },
+                    "SK": {
+                        "S": "SONG#01TnVDiet1DFTsyWKUKovl#00007"
+                    },
+                    "id": {
+                        "S": "01TnVDiet1DFTsyWKUKovl"
+                    },
+                    "name": {
+                        "S": "NUMB"
+                    },
+                    "album_id": {
+                        "S": "2Ti79nwTsont5ZHfdxIzAm"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "15UsOTVnJzReFVN1VCnxy4"
+                            },
+                            "name": {
+                                "S": "XXXTENTACION"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "7"
+                    },
+                    "duration": {
+                        "N": "186268"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#2Ti79nwTsont5ZHfdxIzAm"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00007"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2Ti79nwTsont5ZHfdxIzAm"
+                    },
+                    "SK": {
+                        "S": "SONG#2ZRo7axmMPeSVUvDbGkJah#00016"
+                    },
+                    "id": {
+                        "S": "2ZRo7axmMPeSVUvDbGkJah"
+                    },
+                    "name": {
+                        "S": "Hope"
+                    },
+                    "album_id": {
+                        "S": "2Ti79nwTsont5ZHfdxIzAm"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "15UsOTVnJzReFVN1VCnxy4"
+                            },
+                            "name": {
+                                "S": "XXXTENTACION"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "16"
+                    },
+                    "duration": {
+                        "N": "110886"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#2Ti79nwTsont5ZHfdxIzAm"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00016"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2Ti79nwTsont5ZHfdxIzAm"
+                    },
+                    "SK": {
+                        "S": "SONG#4UKCKdYiLN6IMA5ZESUTL7#00005"
+                    },
+                    "id": {
+                        "S": "4UKCKdYiLN6IMA5ZESUTL7"
+                    },
+                    "name": {
+                        "S": "the remedy for a broken heart (why am I so in love)"
+                    },
+                    "album_id": {
+                        "S": "2Ti79nwTsont5ZHfdxIzAm"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "15UsOTVnJzReFVN1VCnxy4"
+                            },
+                            "name": {
+                                "S": "XXXTENTACION"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "5"
+                    },
+                    "duration": {
+                        "N": "160184"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#2Ti79nwTsont5ZHfdxIzAm"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00005"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2Ti79nwTsont5ZHfdxIzAm"
+                    },
+                    "SK": {
+                        "S": "SONG#7AFASza1mXqntmGtbxXprO#00015"
+                    },
+                    "id": {
+                        "S": "7AFASza1mXqntmGtbxXprO"
+                    },
+                    "name": {
+                        "S": "changes"
+                    },
+                    "album_id": {
+                        "S": "2Ti79nwTsont5ZHfdxIzAm"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "15UsOTVnJzReFVN1VCnxy4"
+                            },
+                            "name": {
+                                "S": "XXXTENTACION"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "15"
+                    },
+                    "duration": {
+                        "N": "121887"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#2Ti79nwTsont5ZHfdxIzAm"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00015"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2Ti79nwTsont5ZHfdxIzAm"
+                    },
+                    "SK": {
+                        "S": "SONG#0JP9xo3adEtGSdUEISiszL#00003"
+                    },
+                    "id": {
+                        "S": "0JP9xo3adEtGSdUEISiszL"
+                    },
+                    "name": {
+                        "S": "Moonlight"
+                    },
+                    "album_id": {
+                        "S": "2Ti79nwTsont5ZHfdxIzAm"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "15UsOTVnJzReFVN1VCnxy4"
+                            },
+                            "name": {
+                                "S": "XXXTENTACION"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "135090"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#2Ti79nwTsont5ZHfdxIzAm"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#2Ti79nwTsont5ZHfdxIzAm"
+                    },
+                    "SK": {
+                        "S": "SONG#3ee8Jmje8o58CHK66QrVC2#00004"
+                    },
+                    "id": {
+                        "S": "3ee8Jmje8o58CHK66QrVC2"
+                    },
+                    "name": {
+                        "S": "SAD!"
+                    },
+                    "album_id": {
+                        "S": "2Ti79nwTsont5ZHfdxIzAm"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "15UsOTVnJzReFVN1VCnxy4"
+                            },
+                            "name": {
+                                "S": "XXXTENTACION"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "4"
+                    },
+                    "duration": {
+                        "N": "166606"
+                    },
+                    "explicit": {
+                        "BOOL": true
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#2Ti79nwTsont5ZHfdxIzAm"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00004"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "SK": {
+                        "S": "SONG#3Lfiu5sZ4M4B6JaKMBc0FU#00013"
+                    },
+                    "id": {
+                        "S": "3Lfiu5sZ4M4B6JaKMBc0FU"
+                    },
+                    "name": {
+                        "S": "Barcelona"
+                    },
+                    "album_id": {
+                        "S": "3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "6eUKZXaKkcviH0Ku9w2n3V"
+                            },
+                            "name": {
+                                "S": "Ed Sheeran"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "13"
+                    },
+                    "duration": {
+                        "N": "191147"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00013"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "SK": {
+                        "S": "SONG#2dfHh7ECGxfNqZTQno09Vk#00009"
+                    },
+                    "id": {
+                        "S": "2dfHh7ECGxfNqZTQno09Vk"
+                    },
+                    "name": {
+                        "S": "Hearts Don't Break Around Here"
+                    },
+                    "album_id": {
+                        "S": "3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "6eUKZXaKkcviH0Ku9w2n3V"
+                            },
+                            "name": {
+                                "S": "Ed Sheeran"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "9"
+                    },
+                    "duration": {
+                        "N": "248413"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00009"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "SK": {
+                        "S": "SONG#7oolFzHipTMg2nL7shhdz2#00001"
+                    },
+                    "id": {
+                        "S": "7oolFzHipTMg2nL7shhdz2"
+                    },
+                    "name": {
+                        "S": "Eraser"
+                    },
+                    "album_id": {
+                        "S": "3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "6eUKZXaKkcviH0Ku9w2n3V"
+                            },
+                            "name": {
+                                "S": "Ed Sheeran"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "1"
+                    },
+                    "duration": {
+                        "N": "227427"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00001"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "SK": {
+                        "S": "SONG#6PJ8FF6UR8FZXfEvpHkIVN#00011"
+                    },
+                    "id": {
+                        "S": "6PJ8FF6UR8FZXfEvpHkIVN"
+                    },
+                    "name": {
+                        "S": "How Would You Feel (Paean)"
+                    },
+                    "album_id": {
+                        "S": "3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "6eUKZXaKkcviH0Ku9w2n3V"
+                            },
+                            "name": {
+                                "S": "Ed Sheeran"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "11"
+                    },
+                    "duration": {
+                        "N": "280533"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00011"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "SK": {
+                        "S": "SONG#2pJZ1v8HezrAoZ0Fhzby92#00010"
+                    },
+                    "id": {
+                        "S": "2pJZ1v8HezrAoZ0Fhzby92"
+                    },
+                    "name": {
+                        "S": "What Do I Know?"
+                    },
+                    "album_id": {
+                        "S": "3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "6eUKZXaKkcviH0Ku9w2n3V"
+                            },
+                            "name": {
+                                "S": "Ed Sheeran"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "10"
+                    },
+                    "duration": {
+                        "N": "237333"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00010"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "SK": {
+                        "S": "SONG#4VuS959DSpr82t3qBqCrWG#00012"
+                    },
+                    "id": {
+                        "S": "4VuS959DSpr82t3qBqCrWG"
+                    },
+                    "name": {
+                        "S": "Supermarket Flowers"
+                    },
+                    "album_id": {
+                        "S": "3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "6eUKZXaKkcviH0Ku9w2n3V"
+                            },
+                            "name": {
+                                "S": "Ed Sheeran"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "12"
+                    },
+                    "duration": {
+                        "N": "221107"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00012"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "SK": {
+                        "S": "SONG#5HDPtsnyb3maFmPL8LLUTG#00008"
+                    },
+                    "id": {
+                        "S": "5HDPtsnyb3maFmPL8LLUTG"
+                    },
+                    "name": {
+                        "S": "New Man"
+                    },
+                    "album_id": {
+                        "S": "3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "6eUKZXaKkcviH0Ku9w2n3V"
+                            },
+                            "name": {
+                                "S": "Ed Sheeran"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "8"
+                    },
+                    "duration": {
+                        "N": "189280"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00008"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "SK": {
+                        "S": "SONG#2RttW7RAu5nOAfq6YFvApB#00007"
+                    },
+                    "id": {
+                        "S": "2RttW7RAu5nOAfq6YFvApB"
+                    },
+                    "name": {
+                        "S": "Happier"
+                    },
+                    "album_id": {
+                        "S": "3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "6eUKZXaKkcviH0Ku9w2n3V"
+                            },
+                            "name": {
+                                "S": "Ed Sheeran"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "7"
+                    },
+                    "duration": {
+                        "N": "207520"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00007"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "SK": {
+                        "S": "SONG#51ChrwmUPDJvedPQnIU8Ls#00003"
+                    },
+                    "id": {
+                        "S": "51ChrwmUPDJvedPQnIU8Ls"
+                    },
+                    "name": {
+                        "S": "Dive"
+                    },
+                    "album_id": {
+                        "S": "3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "6eUKZXaKkcviH0Ku9w2n3V"
+                            },
+                            "name": {
+                                "S": "Ed Sheeran"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "3"
+                    },
+                    "duration": {
+                        "N": "238440"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00003"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "SK": {
+                        "S": "SONG#0afhq8XCExXpqazXczTSve#00006"
+                    },
+                    "id": {
+                        "S": "0afhq8XCExXpqazXczTSve"
+                    },
+                    "name": {
+                        "S": "Galway Girl"
+                    },
+                    "album_id": {
+                        "S": "3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "6eUKZXaKkcviH0Ku9w2n3V"
+                            },
+                            "name": {
+                                "S": "Ed Sheeran"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "6"
+                    },
+                    "duration": {
+                        "N": "170827"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00006"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "SK": {
+                        "S": "SONG#6PCUP3dWmTjcTtXY02oFdT#00002"
+                    },
+                    "id": {
+                        "S": "6PCUP3dWmTjcTtXY02oFdT"
+                    },
+                    "name": {
+                        "S": "Castle on the Hill"
+                    },
+                    "album_id": {
+                        "S": "3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "6eUKZXaKkcviH0Ku9w2n3V"
+                            },
+                            "name": {
+                                "S": "Ed Sheeran"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "2"
+                    },
+                    "duration": {
+                        "N": "261154"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00002"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "SK": {
+                        "S": "SONG#7qiZfU4dY1lWllzX7mPBI3#00004"
+                    },
+                    "id": {
+                        "S": "7qiZfU4dY1lWllzX7mPBI3"
+                    },
+                    "name": {
+                        "S": "Shape of You"
+                    },
+                    "album_id": {
+                        "S": "3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "artist": {
+                        "M": {
+                            "id": {
+                                "S": "6eUKZXaKkcviH0Ku9w2n3V"
+                            },
+                            "name": {
+                                "S": "Ed Sheeran"
+                            }
+                        }
+                    },
+                    "type": {
+                        "S": "Solo"
+                    },
+                    "track_num": {
+                        "N": "4"
+                    },
+                    "duration": {
+                        "N": "233713"
+                    },
+                    "explicit": {
+                        "BOOL": false
+                    },
+                    "GSI4_PK": {
+                        "S": "ALBUM#3T4tUhGYeRNVUGevb0wThu"
+                    },
+                    "GSI4_SK": {
+                        "S": "SONG#00004"
+                    }
+                }
+            }
+        }
+    ]
+}

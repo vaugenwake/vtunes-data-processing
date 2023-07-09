@@ -1,0 +1,70 @@
+{
+    "MusicPlatform": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "USER#2SOrFbK6LZE6fvH4Vp1xg1VjktK"
+                    },
+                    "SK": {
+                        "S": "USER"
+                    },
+                    "id": {
+                        "S": "2SOrFbK6LZE6fvH4Vp1xg1VjktK"
+                    },
+                    "name": {
+                        "S": "Test user 1"
+                    },
+                    "email": {
+                        "S": "test1@example.com"
+                    },
+                    "pass": {
+                        "S": "$2y$10$y3lDsiHyCFGzdO3KODFHKOQYBb19FsyiGPDSI6FLdlsuQKdsu07h6"
+                    },
+                    "active": {
+                        "BOOL": true
+                    },
+                    "GSI1_PK": {
+                        "S": "USER#test1@example.com"
+                    },
+                    "GSI1_SK": {
+                        "S": "USER#2SOrFbK6LZE6fvH4Vp1xg1VjktK"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "PK": {
+                        "S": "USER#2SOrzBx1QDadQH7WpZK3lo7zvAN"
+                    },
+                    "SK": {
+                        "S": "USER"
+                    },
+                    "id": {
+                        "S": "2SOrzBx1QDadQH7WpZK3lo7zvAN"
+                    },
+                    "name": {
+                        "S": "Test user 2"
+                    },
+                    "email": {
+                        "S": "test2@example.com"
+                    },
+                    "pass": {
+                        "S": "$2y$10$y3lDsiHyCFGzdO3KODFHKOQYBb19FsyiGPDSI6FLdlsuQKdsu07h6"
+                    },
+                    "active": {
+                        "BOOL": false
+                    },
+                    "GSI1_PK": {
+                        "S": "USER#test2@example.com"
+                    },
+                    "GSI1_SK": {
+                        "S": "USER#2SOrzBx1QDadQH7WpZK3lo7zvAN"
+                    }
+                }
+            }
+        }
+    ]
+}
